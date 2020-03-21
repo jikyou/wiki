@@ -1,7 +1,7 @@
 created: 20200321145834643
-modified: 20200321145942099
+modified: 20200321152155838
 tags: $:/tags/RawMarkupWikified/TopBody
-title: Loading Bar
+title: $:/Loading Bar
 
 \import [[$:/core/ui/PageMacros]] [all[shadows+tiddlers]tag[$:/tags/Macro]!has[draft.of]]
 \rules only filteredtranscludeinline transcludeinline macrocallinline
