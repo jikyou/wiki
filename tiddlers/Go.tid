@@ -1,0 +1,59 @@
+created: 20200321171035968
+modified: 20200321173159961
+title: Go
+
+!! Official
+
+[[go.dev|https://go.dev/]]
+
+[[golang.org|https://golang.org/]]
+
+[[Document|https://golang.org/doc/]]
+
+[[Spec|https://golang.org/ref/spec]]
+
+[[Effective Go|https://golang.org/doc/effective_go.html]]
+
+[[Wiki|https://github.com/golang/go/wiki]]
+
+[[The Go Memory Model|https://golang.org/ref/mem]]
+
+[[FAQ|https://golang.org/doc/faq]]
+
+!! UnOfficial
+
+!!! Style Guide
+
+[[uber-go|https://github.com/uber-go/guide/blob/master/style.md]]
+[[中文版|https://github.com/xxjwxc/uber_go_guide_cn]]
+
+[[go-styleguide|https://github.com/bahlo/go-styleguide]]
+[[中文版|https://github.com/cch123/go-styleguide]]
+
+!!! Book
+
+[[Go 语言圣经 gopl|https://github.com/gopl-zh/gopl-zh.github.com]]
+
+[[Go 语言高级编程|https://chai2010.cn/advanced-go-programming-book/]]
+
+[[build-web-application-with-golang|https://github.com/astaxie/build-web-application-with-golang]]
+
+[[Go 语言中文开源图书|https://books.studygolang.com/]]
+
+!!! Resource
+
+[[awesome-go|https://github.com/avelino/awesome-go]]
+
+[[golang-developer-roadmap|https://github.com/Alikhll/golang-developer-roadmap]]
+
+[[go-best-practice|https://github.com/llitfkitfk/go-best-practice]]
+
+[[gotraining|https://github.com/ardanlabs/gotraining]]
+
+!!! History
+
+!!!! Package Management
+
+[[Go 包管理的前世今生|https://www.infoq.cn/article/history-go-package-management]]
+
+[[Go语言包管理简史|https://tonybai.com/2019/09/21/brief-history-of-go-package-management/]]

@@ -1,0 +1,65 @@
+created: 20200321155524834
+modified: 20200321171053147
+tags: spec
+title: Web Spec
+
+
+[[W3C|https://www.w3.org/]]
+
+[[W3C STANDARDS|https://www.w3.org/standards/|]]
+
+!! ''HTML''
+
+<<<
+HyperText Markup Language
+<<<
+
+!!! Specification
+
+[[WHATWG's HTML Living Standard|https://html.spec.whatwg.org/multipage/]]
+
+[[HTML 5.2|https://www.w3.org/TR/html52/]]
+
+!! ''[[CSS|https://www.w3.org/Style/CSS/]]''
+
+<<<
+Cascading Style Sheets
+<<<
+
+[[CSS Working Group Wiki|https://wiki.csswg.org/]]
+
+!!! Specification
+
+[[All Specs|https://www.w3.org/Style/CSS/specs]]
+
+[[css-syntax-3|https://www.w3.org/TR/css-syntax-3/]]
+
+!! [[WCAG|https://www.w3.org/WAI/standards-guidelines/wcag/]]
+
+<<<
+Web Content Accessibility Guidelines
+<<<
+
+!!! Specification
+
+[[WCAG21|https://www.w3.org/TR/WCAG21/]]
+
+!! ''DOM''
+
+<<<
+Document Object Model
+<<<
+
+!!! Specification
+
+[[DOM Living Standard|https://dom.spec.whatwg.org/]]
+
+!! ''Javascript''
+
+[[ECMA|https://www.ecma-international.org/]]
+
+[[|All Ecma Standards|https://www.ecma-international.org/publications/standards/Standard.htm]]
+
+!!! Specification
+
+[[ECMA-262|https://tc39.es/ecma262/]]
