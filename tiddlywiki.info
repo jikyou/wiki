@@ -1,7 +1,6 @@
 {
     "description": "Empty edition",
     "plugins": [
-        "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem"
     ],
     "themes": [
