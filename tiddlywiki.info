@@ -4,7 +4,9 @@
         "tiddlywiki/filesystem"
     ],
     "themes": [
-        "tiddlywiki/vanilla"
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite",
+        "tiddlywiki/centralised"
     ],
     "build": {
         "index": [
