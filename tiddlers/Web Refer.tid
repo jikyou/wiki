@@ -1,65 +1,65 @@
 created: 20200321155524834
-modified: 20200321171053147
-tags: spec
-title: Web Spec
+modified: 20200322060728379
+tags: web refer
+title: Web Refer
 
 
 [[W3C|https://www.w3.org/]]
 
 [[W3C STANDARDS|https://www.w3.org/standards/|]]
 
-!! ''HTML''
+! HTML
 
 <<<
 HyperText Markup Language
 <<<
 
-!!! Specification
+!! Specification
 
 [[WHATWG's HTML Living Standard|https://html.spec.whatwg.org/multipage/]]
 
 [[HTML 5.2|https://www.w3.org/TR/html52/]]
 
-!! ''[[CSS|https://www.w3.org/Style/CSS/]]''
+! CSS
 
 <<<
-Cascading Style Sheets
+[[Cascading Style Sheets|https://www.w3.org/Style/CSS/]]
 <<<
 
 [[CSS Working Group Wiki|https://wiki.csswg.org/]]
 
-!!! Specification
+!! Specification
 
 [[All Specs|https://www.w3.org/Style/CSS/specs]]
 
 [[css-syntax-3|https://www.w3.org/TR/css-syntax-3/]]
 
-!! [[WCAG|https://www.w3.org/WAI/standards-guidelines/wcag/]]
+! WCAG
 
 <<<
-Web Content Accessibility Guidelines
+[[Web Content Accessibility Guidelines|https://www.w3.org/WAI/standards-guidelines/wcag/]]
 <<<
 
-!!! Specification
+!! Specification
 
 [[WCAG21|https://www.w3.org/TR/WCAG21/]]
 
-!! ''DOM''
+! DOM
 
 <<<
 Document Object Model
 <<<
 
-!!! Specification
+!! Specification
 
 [[DOM Living Standard|https://dom.spec.whatwg.org/]]
 
-!! ''Javascript''
+! Javascript
 
 [[ECMA|https://www.ecma-international.org/]]
 
 [[|All Ecma Standards|https://www.ecma-international.org/publications/standards/Standard.htm]]
 
-!!! Specification
+!! Specification
 
 [[ECMA-262|https://tc39.es/ecma262/]]
