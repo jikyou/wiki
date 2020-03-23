@@ -1,0 +1,11 @@
+created: 20200322142929184
+modified: 20200322143701553
+tags: editor
+title: Sublime Text Plugin
+
+! Live Reload
+
+# Install Live Reload Plugin By Package Control.
+# Install Live Reload Chrome Extension
+# Go to extensions setting and Choice "Allow access to file URLs"
+# Command+Shift+P Input "livereload: enable" to Select "Simple Reload"
