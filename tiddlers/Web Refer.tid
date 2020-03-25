@@ -1,5 +1,5 @@
 created: 20200321155524834
-modified: 20200322060728379
+modified: 20200325120428340
 tags: web refer
 title: Web Refer
 
@@ -7,6 +7,12 @@ title: Web Refer
 [[W3C|https://www.w3.org/]]
 
 [[W3C STANDARDS|https://www.w3.org/standards/|]]
+
+! Browser Check
+
+[[ECMAScript 兼容性表|http://kangax.github.io/compat-table/es6/]]
+
+[[Can I Use|https://caniuse.com/]]
 
 ! HTML
 
@@ -63,3 +69,11 @@ Document Object Model
 !! Specification
 
 [[ECMA-262|https://tc39.es/ecma262/]]
+
+! Style Guide
+
+[[Google HTML/CSS Style Guide|https://google.github.io/styleguide/htmlcssguide.html]]
+
+[[Github Style Linter|https://github.com/stylelint/stylelint]]
+
+[[mdo Code Guide|https://codeguide.co/#html]]

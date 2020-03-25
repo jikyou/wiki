@@ -1,8 +1,8 @@
 created: 20200322060747628
-modified: 20200322072105727
+modified: 20200323134422599
 tags: css cheatsheet
 title: CSS Cheatsheet
 
 ! Reset Default Style
 
-[[gist|https://gist.github.com/DavidWells/18e73022e723037a50d6]]
+[[gist|https://gist.github.com/DavidWells/18e73022e723037a50d6]] Or [[awesome-css-frameworks#base--reset--normalize|https://github.com/troxler/awesome-css-frameworks#base--reset--normalize]]

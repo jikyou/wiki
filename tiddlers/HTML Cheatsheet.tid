@@ -1,0 +1,19 @@
+created: 20200323095447153
+modified: 20200323101415617
+tags: html cheatsheet
+title: HTML Cheatsheet
+
+! Head
+
+https://github.com/joshbuchea/HEAD
+
+```
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--
+  The above 2 meta tags *must* come first in the <head>
+  to consistently ensure proper document rendering.
+  Any other head element should come *after* these tags.
+ -->
+<title>Page Title</title>
+```
