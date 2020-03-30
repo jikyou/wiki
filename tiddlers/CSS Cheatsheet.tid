@@ -1,8 +1,16 @@
 created: 20200322060747628
-modified: 20200323134422599
+modified: 20200325140410148
 tags: css cheatsheet
 title: CSS Cheatsheet
 
 ! Reset Default Style
 
 [[gist|https://gist.github.com/DavidWells/18e73022e723037a50d6]] Or [[awesome-css-frameworks#base--reset--normalize|https://github.com/troxler/awesome-css-frameworks#base--reset--normalize]]
+
+! See every single "box" that makes up a page
+
+```
+* {
+   border: 1px solid red !important;
+}
+```

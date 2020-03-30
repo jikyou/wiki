@@ -1,0 +1,38 @@
+created: 20200330010907513
+modified: 20200330011244189
+tags: kubernetes refer
+title: Kubernetes Refer
+
+[[Enhancements|https://github.com/kubernetes/enhancements]]
+
+[[Community|https://github.com/kubernetes/community]]
+
+[[Installer Tool|https://landscape.cncf.io/category=certified-kubernetes-installer&format=card-mode&grouping=no&sort=stars]]
+
+[[Runtime|https://landscape.cncf.io/category=runtime&format=card-mode&grouping=category&sort=stars]]
+
+[[Platform|https://landscape.cncf.io/category=platform&format=card-mode&grouping=category&sort=stars]]
+
+! Interface
+
+!! CRI / Container Runtime Interface
+
+[[Spec|https://github.com/kubernetes/community/blob/master/contributors/devel/sig-node/container-runtime-interface.md]]
+
+[[CRI Plugin|https://github.com/kubernetes/cri-api]]
+
+!! CNI / Container Network Interface
+
+[[Spec|https://github.com/containernetworking/cni/blob/master/SPEC.md]]
+
+!! CSI / Container Storage Interface
+
+[[Spec|https://github.com/container-storage-interface/spec/blob/master/spec.md]]
+
+! Example
+
+[[Task|https://kubernetes.io/docs/tasks/]]
+
+[[Origin MySQL StatefulSet|https://github.com/oracle/kubernetes-website/blob/master/docs/tasks/run-application/mysql-statefulset.yaml]]
+
+[[MySQL StatefulSet|https://github.com/kubernetes/website/blob/master/content/en/examples/application/mysql/mysql-statefulset.yaml]]
