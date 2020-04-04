@@ -1,7 +1,7 @@
 created: 20200321155524834
-modified: 20200329093514487
-tags: web refer
-title: Web Refer
+modified: 20200404002527993
+tags: web
+title: Web
 
 
 [[W3C|https://www.w3.org/]]
@@ -22,7 +22,7 @@ title: Web Refer
 
 [[HTML 5.2|https://www.w3.org/TR/html52/]]
 
-! [[CSS / Cascading Style Sheets|https://www.w3.org/Style/CSS/]]
+! [[CSS - Cascading Style Sheets|https://www.w3.org/Style/CSS/]]
 
 [[CSS Working Group Wiki|https://wiki.csswg.org/]]
 
@@ -32,13 +32,13 @@ title: Web Refer
 
 [[css-syntax-3|https://www.w3.org/TR/css-syntax-3/]]
 
-! [[WCAG / Web Content Accessibility Guidelines|https://www.w3.org/WAI/standards-guidelines/wcag/]]
+! [[WCAG - Web Content Accessibility Guidelines|https://www.w3.org/WAI/standards-guidelines/wcag/]]
 
 !! Specification
 
 [[WCAG21|https://www.w3.org/TR/WCAG21/]]
 
-! DOM / Document Object Model
+! DOM - Document Object Model
 
 !! Specification
 

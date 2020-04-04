@@ -1,7 +1,7 @@
 created: 20200329090459341
-modified: 20200330011044049
-tags: refer cloud
-title: Cloud Native Refer
+modified: 20200404002701674
+tags: cloud
+title: Cloud Native
 
 ! Organization
 
@@ -16,7 +16,7 @@ title: Cloud Native Refer
 
 由 Docker 和其他容器行业的领导者于 2015 年 6 月建立，目前包含两个规范：运行时规范（[[runtime-spec|https://github.com/opencontainers/runtime-spec]]）和映像规范（[[image-spec|https://github.com/opencontainers/image-spec]]）。
 
-! [[Kubernetes|Kubernetes Refer]]
+! [[Kubernetes]]
 
 ! Next Generation Container Tools
 

@@ -1,5 +1,5 @@
 created: 20200322142929184
-modified: 20200322143701553
+modified: 20200401154538652
 tags: editor
 title: Sublime Text Plugin
 
@@ -9,3 +9,21 @@ title: Sublime Text Plugin
 # Install Live Reload Chrome Extension
 # Go to extensions setting and Choice "Allow access to file URLs"
 # Command+Shift+P Input "livereload: enable" to Select "Simple Reload"
+
+! Go
+
+```
+1. cd Browse Packages
+
+2. clone resp
+git clone git@github.com:DisposaBoy/GoSublime.git
+
+3. restart sublime
+
+4. config
+// cmd+shift+p gosublime: Default Settings
+{
+    "fmt_enabled": true,
+    "fmt_cmd": ["goimports"],
+}
+```
