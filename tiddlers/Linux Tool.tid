@@ -1,0 +1,36 @@
+created: 20200401065000676
+modified: 20200404004435492
+tags: linux tool
+title: Linux Tool
+
+! Network 
+
+dig / ping / traceroute / nslookup / tcpdump / nc / ab / host / whois / mtr / telnet
+
+router / ip / ifconfig / iptables
+
+curl / wget
+
+! Progress
+
+netstat -an / ps aux /top / htop / pstree / lsof
+
+! Domain
+
+!! Search
+
+https://github.com/Har-Kuun/DomainMegaBot
+
+https://github.com/luodaoyi/DomainScan
+
+[[子域名搜索|https://xiaix.me/zi-yu-ming-fa-xian-gong-ju/]]
+
+! Make Cert
+
+OpenSSL / GnuGPG / keybase / cfssl / easyrsa
+
+! Port
+
+[[使用 iptables 防止端口扫描|https://github.com/EtherDream/anti-portscan]]
+
+[[端口扫描 nmap|https://nmap.org/]]

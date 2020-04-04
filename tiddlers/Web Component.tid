@@ -1,0 +1,58 @@
+created: 20200322055608610
+modified: 20200402012046127
+tags: web
+title: Web Component
+
+! Server
+
+Api Doc
+
+Validate
+
+Load Banlance
+
+Router
+
+Gizp
+
+Session
+
+gracefully shutdown
+
+!!! Auth
+
+Cookie
+
+JWT
+
+!!! Security
+
+SQL Injection
+
+CSRF
+
+XSS
+
+User Passsword (bcrypt)
+
+!!! Test
+
+UnitTest
+
+ApiTest
+
+!! Database
+
+Validate
+
+ORM
+
+migrate
+
+! Client
+
+HTML
+
+CSS
+
+Javascript
