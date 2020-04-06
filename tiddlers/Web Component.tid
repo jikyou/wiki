@@ -1,5 +1,5 @@
 created: 20200322055608610
-modified: 20200402012046127
+modified: 20200406025447634
 tags: web
 title: Web Component
 
@@ -13,15 +13,17 @@ Load Banlance
 
 Router
 
-Gizp
-
-Session
-
 gracefully shutdown
+
+!!! Asset
+
+Nginx
+
+Gizp
 
 !!! Auth
 
-Cookie
+Session/Cookie
 
 JWT
 
