@@ -1,11 +1,11 @@
 created: 20200406123838923
-modified: 20200406125610065
+modified: 20200406130415932
 tags: tool
 title: Fake Everything
 
 ! Name / Address / Phone / User-Agent /else ...
 
-[[|Alfred Workflow|https://github.com/deanishe/alfred-fakeum]]
+[[Alfred Workflow|https://github.com/deanishe/alfred-fakeum]]
 
 [[Python Library faker|https://github.com/joke2k/faker]]
 
@@ -14,7 +14,7 @@ title: Fake Everything
 [[MakeGirlsMoe|https://github.com/makegirlsmoe/makegirlsmoe_web]]
 
 [[UI Avatars|https://ui-avatars.com/]] | 
-[[Like|https://ui-avatars.com/api/?rounded=true&background=ffff00&color=00bfff&name=D+J&size=512]]
+[[Like This|https://ui-avatars.com/api/?rounded=true&background=ffff00&color=00bfff&name=D+J&size=512]]
 
 ! Other
 
