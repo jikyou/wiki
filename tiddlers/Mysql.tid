@@ -1,0 +1,12 @@
+created: 20200419120128164
+modified: 20200419120345219
+tags: mysql database
+title: Mysql
+
+! [[Docs|https://dev.mysql.com/doc/]]
+
+[[MySQL 8.0 Reference Manual|https://dev.mysql.com/doc/refman/8.0/en/]]
+
+[[mysql-shell|https://dev.mysql.com/doc/mysql-shell/8.0/en/]]
+
+! [[Note|https://note.ziqiang.ch/databases/mysql]]

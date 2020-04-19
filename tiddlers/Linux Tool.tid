@@ -1,11 +1,11 @@
 created: 20200401065000676
-modified: 20200405091540124
+modified: 20200412005217220
 tags: linux tool
 title: Linux Tool
 
 ! Network 
 
-dig / ping / traceroute / nslookup / tcpdump / nc / ab / host / whois / mtr / telnet
+dig / ping / traceroute / nslookup / tcpdump / nc / host / whois / mtr / telnet
 
 router / ip / ifconfig / iptables
 
@@ -13,9 +13,23 @@ curl / wget
 
 wrk
 
+!! Network Status
+
+netstat
+
+netstat -an
+
+!! Benchmark
+
+ab(Apache Benchmark)
+
+```
+ab -c 10 -t 5  "http://localhost:3055/sync"
+```
+
 ! Progress
 
-netstat -an / ps aux /top / htop / pstree / lsof
+ps aux / top / htop / pstree / lsof
 
 ! Domain
 
@@ -36,3 +50,9 @@ OpenSSL / GnuGPG / keybase / cfssl / easyrsa
 [[使用 iptables 防止端口扫描|https://github.com/EtherDream/anti-portscan]]
 
 [[端口扫描 nmap|https://nmap.org/]]
+
+! password
+
+!! password recovery utility
+
+[[hashcat|https://github.com/hashcat/hashcat]]

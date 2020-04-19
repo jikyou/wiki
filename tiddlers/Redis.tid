@@ -1,7 +1,11 @@
 created: 20200404002729352
-modified: 20200404002829806
+modified: 20200419120102779
 tags: redis database
 title: Redis
+
+! [[Docs|https://redis.io/documentation]]
+
+[[Commands|https://redis.io/commands]]
 
 ! Book
 

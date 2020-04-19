@@ -1,5 +1,5 @@
 created: 20200322055608610
-modified: 20200406025447634
+modified: 20200416073749612
 tags: web
 title: Web Component
 
@@ -14,6 +14,18 @@ Load Banlance
 Router
 
 gracefully shutdown
+
+gracefully Restart
+
+!! Business
+
+!!! 时间
+
+业务时间，服务器时间
+
+!!! 精度
+
+金钱数额的精度，BigNumber.js
 
 !!! Asset
 

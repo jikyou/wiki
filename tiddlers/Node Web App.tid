@@ -1,0 +1,35 @@
+created: 20200418052723659
+modified: 20200419120818729
+tags: 
+title: Node Web App
+
+!! Express
+
+```
+npx express-generator
+express --view=pug myapp
+cd myapp
+npm install
+DEBUG=myapp:* npm start
+```
+
+!! Sequelize
+
+```
+npm install sequelize
+npm install --save-dev sequelize-cli
+npx sequelize init
+```
+
+!!! Generate
+
+```
+npx sequelize-cli model:generate --name Singer --attributes name:string
+```
+
+!!! Migrate
+
+```
+npx sequelize-cli db:migrate
+npx sequelize-cli db:migrate:undo
+```

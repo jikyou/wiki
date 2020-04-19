@@ -1,5 +1,5 @@
 created: 20200321171035968
-modified: 20200405100433761
+modified: 20200415005043147
 tags: go
 title: Go
 
@@ -20,6 +20,8 @@ title: Go
 [[The Go Memory Model|https://golang.org/ref/mem]]
 
 [[FAQ|https://golang.org/doc/faq]]
+
+[[Proposal|https://github.com/golang/proposal]]
 
 ! UnOfficial
 
