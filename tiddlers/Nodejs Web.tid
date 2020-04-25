@@ -1,7 +1,9 @@
 created: 20200418052723659
-modified: 20200419120818729
+modified: 20200423053039896
 tags: 
-title: Node Web App
+title: Nodejs Web
+
+! Web
 
 !! Express
 
@@ -12,6 +14,8 @@ cd myapp
 npm install
 DEBUG=myapp:* npm start
 ```
+
+! ORM
 
 !! Sequelize
 
@@ -32,4 +36,39 @@ npx sequelize-cli model:generate --name Singer --attributes name:string
 ```
 npx sequelize-cli db:migrate
 npx sequelize-cli db:migrate:undo
+```
+
+!! Knex
+
+```
+knex init
+```
+
+!!! Migrate
+
+```
+knex migrate:make posts
+knex migrate:latest
+```
+
+!!! Seeds
+
+```
+knex seed:make posts
+knex seed:run
+```
+
+! Package Manage
+
+!! npm
+
+```
+npm init -y
+```
+
+!! yarn
+
+```
+yarn init -y
+yarn upgrade --latest
 ```

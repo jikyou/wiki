@@ -1,5 +1,5 @@
 created: 20200322055608610
-modified: 20200416073749612
+modified: 20200424022733921
 tags: web
 title: Web Component
 
@@ -39,6 +39,10 @@ Session/Cookie
 
 JWT
 
+[[OAuth|https://oauth.net/]]
+
+ACL / RBCL
+
 !!! Security
 
 SQL Injection
@@ -70,3 +74,7 @@ HTML
 CSS
 
 Javascript
+
+! Other
+
+[[JSON schema validation|https://json-schema.org/]]

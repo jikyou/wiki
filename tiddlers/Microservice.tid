@@ -1,16 +1,82 @@
 created: 20200417043833390
-modified: 20200418024542088
+modified: 20200425140902639
 tags: 
 title: Microservice
 
-服务描述
+! 服务描述
 
-服务发现
+!! Restful API
 
-服务调用
+!! XML
 
-服务监控
+!! IDL
 
-服务追踪
+! 服务发现
 
-服务治理
+!! 应用内
+
+!!! [[Netflix Eureka|https://github.com/Netflix/eureka]]
+
+!! 应用外
+
+!!! [[Consul|https://github.com/hashicorp/consul]]
+
+Consul / [[Registrator|https://github.com/gliderlabs/registrator]] / [[Consul Template|https://github.com/hashicorp/consul-template]]
+
+! 服务调用
+
+!! 语言平台绑定的开源 RPC 框架
+
+!!! [[Dubbo|https://github.com/apache/dubbo]]
+
+!!! [[Motan|https://github.com/weibocom/motan]]
+
+!!! [[Tars|https://github.com/TarsCloud/Tars]]
+
+!!! [[Spring Cloud|https://spring.io/projects/spring-cloud]]
+
+!! 跨语言平台的开源 RPC 框架
+
+!!! [[gRPC|https://grpc.io]]
+
+[[Protocol Buffers|https://developers.google.com/protocol-buffers/docs/overview]]
+
+!!! [[Thrift|https://github.com/apache/thrift]]
+
+! 服务监控
+
+!! [[ELK|https://www.elastic.co]]
+
+Elasticsearch、Logstash、Kibana、Beats
+
+!! [[Graphite|https://github.com/graphite-project]]
+
+Carbon、Whisper、Graphite-Web
+
+Graphite 自身并不包含数据采集组件，可以接入 [[Statsd|https://github.com/statsd/statsd]]
+
+!! TICK
+
+Telegraf、InfluxDB、Chronograf、Kapacitor
+
+!! [[Prometheus|https://github.com/prometheus]]
+
+Prometheus Server、Jobs/exporters、Pushgateway、Alertmanager、Prometheus web UI
+
+! 服务追踪
+
+[[Dapper, a Large-Scale Distributed Systems Tracing Infrastructure|https://research.google/pubs/pub36356/]]
+
+!! [[Twitter OpenZipkin|https://github.com/openzipkin/zipkin]]
+
+!! [[Naver Pinpoint|https://github.com/naver/pinpoint]]
+
+!! Other
+
+Alibaba EagleEye
+
+[[Uber Jaeger|https://github.com/jaegertracing/jaeger]]
+
+[[Skywalking|https://github.com/apache/skywalking]]
+
+! 服务治理
