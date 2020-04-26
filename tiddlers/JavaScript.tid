@@ -1,0 +1,47 @@
+created: 20200426085607243
+modified: 20200426092726493
+tags: javascript code
+title: JavaScript
+
+
+[[ECMA|https://www.ecma-international.org/]]
+
+[[|All Ecma Standards|https://www.ecma-international.org/publications/standards/Standard.htm]]
+
+! Specification
+
+[[ECMA-262|https://tc39.es/ecma262/]]
+
+! Book
+
+[[You-Dont-Know-JS|https://github.com/getify/You-Dont-Know-JS]]
+
+[[Mostly adequate guide to FP (in javascript)|https://github.com/MostlyAdequate/mostly-adequate-guide]] [[中文版|https://github.com/llh911001/mostly-adequate-guide-chinese]]
+
+! Node.js
+
+[[Nodebestpractices|https://github.com/goldbergyoni/nodebestpractices]]
+
+! TypeScript
+
+[[Spec|https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md]]
+
+[[Design Goals|https://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals]]
+
+[[Docs|https://www.typescriptlang.org/docs/home.html]] [[中文版|https://github.com/zhongsp/TypeScript]]
+
+!! Book
+
+[[typescript-tutorial|https://github.com/xcatliu/typescript-tutorial]]
+
+[[Typescript Book|https://github.com/basarat/typescript-book]] [[中文版|https://jkchao.github.io/typescript-book-chinese/]]
+
+! Check Compat
+
+[[ECMAScript 兼容性表|http://kangax.github.io/compat-table/es6/]]
+
+! Style Guide
+
+[[Airbnb JavaScript Style Guide|https://github.com/airbnb/javascript]]
+
+[[JavaScript Style Guide|https://github.com/standard/standard]]

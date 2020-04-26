@@ -1,5 +1,5 @@
 created: 20200321155524834
-modified: 20200404002527993
+modified: 20200426085932736
 tags: web
 title: Web
 
@@ -7,12 +7,6 @@ title: Web
 [[W3C|https://www.w3.org/]]
 
 [[W3C STANDARDS|https://www.w3.org/standards/|]]
-
-! Browser Check
-
-[[ECMAScript 兼容性表|http://kangax.github.io/compat-table/es6/]]
-
-[[Can I Use|https://caniuse.com/]]
 
 ! HTML / HyperText Markup Language
 
@@ -44,15 +38,11 @@ title: Web
 
 [[DOM Living Standard|https://dom.spec.whatwg.org/]]
 
-! Javascript
+! [[JavaScript]]
 
-[[ECMA|https://www.ecma-international.org/]]
+! Browser Check
 
-[[|All Ecma Standards|https://www.ecma-international.org/publications/standards/Standard.htm]]
-
-!! Specification
-
-[[ECMA-262|https://tc39.es/ecma262/]]
+[[Can I Use|https://caniuse.com/]]
 
 ! Style Guide
 
