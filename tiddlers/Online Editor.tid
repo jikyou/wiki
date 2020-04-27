@@ -1,0 +1,40 @@
+created: 20200427052550471
+modified: 20200427092451478
+tags: web tool
+title: Online Editor
+
+! Coding
+
+!! HTML CSS JavaScript
+
+[[Codepen|https://codepen.io/]]
+
+[[JSFiddle|https://jsfiddle.net/]]
+
+[[JS Bin|http://jsbin.com/]]
+
+[[Glitch|https://glitch.com/]]
+
+[[stackblitz|https://stackblitz.com/]]
+
+[[CodeSandbox|https://codesandbox.io/]]
+
+!!! C++
+
+[[Compiler Explorer|https://godbolt.org/]]
+
+!! Most PL
+
+[[Repl|https://repl.it/]]
+
+[[Gitpod|https://www.gitpod.io/]]
+
+[[CoderPad|https://coderpad.io/]]
+
+[[collabedit|http://collabedit.com/]]
+
+!! Self-Hosted
+
+[[code-server|https://github.com/cdr/code-server]]
+
+[[theia|https://github.com/eclipse-theia/theia]]

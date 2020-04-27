@@ -1,0 +1,66 @@
+created: 20200427021343083
+modified: 20200427061759603
+tags: apache java
+title: Kafka
+
+
+[[Documentation|https://kafka.apache.org/documentation/]]
+
+[[Papers and Presentations|https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations]]
+
+[[Protocol Guide|https://kafka.apache.org/protocol.html]]
+
+[[Source Code|https://github.com/apache/kafka]]
+
+! [[Quickstart|https://kafka.apache.org/quickstart]]
+
+```
+vim /usr/local/etc/kafka/server.properties
+# listeners=PLAINTEXT://localhost:9092
+
+zookeeper-server-start /usr/local/etc/kafka/zookeeper.properties & kafka-server-start /usr/local/etc/kafka/server.properties
+
+kafka-topics --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic test
+
+kafka-topics --list --bootstrap-server localhost:9092
+
+kafka-console-producer --bootstrap-server localhost:9092 --topic test
+
+kafka-console-consumer --bootstrap-server localhost:9092 --topic test --from-beginning
+
+kafka-topics --describe --bootstrap-server localhost:9092 --topic test
+
+kafka-topics --delete --bootstrap-server localhost:9092 --topic test
+```
+
+! Client
+
+!! Node.js
+
+[[SOHU-Co/kafka-node|https://github.com/SOHU-Co/kafka-node]]
+
+[[blizzard/node-rdkafka|https://github.com/blizzard/node-rdkafka]]
+
+[[nodefluent/node-sinek|https://github.com/nodefluent/node-sinek]]
+
+! Docker
+
+[[wurstmeister/kafka-docker|https://github.com/wurstmeister/kafka-docker]]
+
+! Awesome
+
+[[infoslack/awesome-kafka|https://github.com/infoslack/awesome-kafka]]
+
+[[dharmeshkakadia/awesome-kafka|https://github.com/dharmeshkakadia/awesome-kafka]]
+
+[[monksy/awesome-kafka|https://github.com/monksy/awesome-kafka]]
+
+[[semantalytics/awesome-kafka|https://github.com/semantalytics/awesome-kafka]]
+
+! Pit
+
+!! 待解决
+
+!!! INFO Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+
+使用 brew services start kafka 启动 kafka 的时候出现的，可能是配置问题。

@@ -1,5 +1,5 @@
 created: 20200426085607243
-modified: 20200426092726493
+modified: 20200427052614901
 tags: javascript code
 title: JavaScript
 
@@ -14,13 +14,17 @@ title: JavaScript
 
 ! Book
 
+[[ES6 入门教程|https://es6.ruanyifeng.com/]]
+
 [[You-Dont-Know-JS|https://github.com/getify/You-Dont-Know-JS]]
 
 [[Mostly adequate guide to FP (in javascript)|https://github.com/MostlyAdequate/mostly-adequate-guide]] [[中文版|https://github.com/llh911001/mostly-adequate-guide-chinese]]
 
-! Node.js
+! [[Node.js]]
 
 [[Nodebestpractices|https://github.com/goldbergyoni/nodebestpractices]]
+
+[[Stream Handbook|https://github.com/substack/stream-handbook]]
 
 ! TypeScript
 
