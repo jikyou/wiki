@@ -1,0 +1,74 @@
+created: 20200428024622700
+modified: 20200428024808303
+tags: node.js javascript code
+title: Node.js Command Line
+
+! Package Manage
+
+!! npm
+
+```
+npm init -y
+```
+
+!! yarn
+
+```
+yarn init -y
+yarn upgrade --latest
+```
+
+! Web
+
+!! Express
+
+```
+npx express-generator
+express --view=pug myapp
+cd myapp
+npm install
+DEBUG=myapp:* npm start
+```
+
+! ORM
+
+!! Sequelize
+
+```
+npm install sequelize
+npm install --save-dev sequelize-cli
+npx sequelize init
+```
+
+!!! Generate
+
+```
+npx sequelize-cli model:generate --name Singer --attributes name:string
+```
+
+!!! Migrate
+
+```
+npx sequelize-cli db:migrate
+npx sequelize-cli db:migrate:undo
+```
+
+!! Knex
+
+```
+knex init
+```
+
+!!! Migrate
+
+```
+knex migrate:make posts
+knex migrate:latest
+```
+
+!!! Seeds
+
+```
+knex seed:make posts
+knex seed:run
+```

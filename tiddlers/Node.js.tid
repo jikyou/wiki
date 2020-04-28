@@ -1,74 +1,21 @@
 created: 20200418052723659
-modified: 20200426104638639
-tags: javascript node.js code
+modified: 20200428024830706
+tags: node.js javascript code
 title: Node.js
 
-! Web
 
-!! Express
+[[nodejs.dev|https://nodejs.dev/]]
 
-```
-npx express-generator
-express --view=pug myapp
-cd myapp
-npm install
-DEBUG=myapp:* npm start
-```
+! [[libuv|https://github.com/libuv/libuv]]
 
-! ORM
+[[Docs|http://docs.libuv.org/en/latest/index.html]]
 
-!! Sequelize
+! [[Command Line|Node.js Command Line]]
 
-```
-npm install sequelize
-npm install --save-dev sequelize-cli
-npx sequelize init
-```
+! Awesome
 
-!!! Generate
+[[Nodebestpractices|https://github.com/goldbergyoni/nodebestpractices]]
 
-```
-npx sequelize-cli model:generate --name Singer --attributes name:string
-```
+[[Stream Handbook|https://github.com/substack/stream-handbook]]
 
-!!! Migrate
-
-```
-npx sequelize-cli db:migrate
-npx sequelize-cli db:migrate:undo
-```
-
-!! Knex
-
-```
-knex init
-```
-
-!!! Migrate
-
-```
-knex migrate:make posts
-knex migrate:latest
-```
-
-!!! Seeds
-
-```
-knex seed:make posts
-knex seed:run
-```
-
-! Package Manage
-
-!! npm
-
-```
-npm init -y
-```
-
-!! yarn
-
-```
-yarn init -y
-yarn upgrade --latest
-```
+[[sindresorhus/awesome-nodejs|https://github.com/sindresorhus/awesome-nodejs]]

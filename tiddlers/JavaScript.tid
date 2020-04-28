@@ -1,5 +1,5 @@
 created: 20200426085607243
-modified: 20200427052614901
+modified: 20200428035505596
 tags: javascript code
 title: JavaScript
 
@@ -20,25 +20,13 @@ title: JavaScript
 
 [[Mostly adequate guide to FP (in javascript)|https://github.com/MostlyAdequate/mostly-adequate-guide]] [[中文版|https://github.com/llh911001/mostly-adequate-guide-chinese]]
 
+! Module
+
+[[Common JS|https://requirejs.org/]]
+
 ! [[Node.js]]
 
-[[Nodebestpractices|https://github.com/goldbergyoni/nodebestpractices]]
-
-[[Stream Handbook|https://github.com/substack/stream-handbook]]
-
-! TypeScript
-
-[[Spec|https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md]]
-
-[[Design Goals|https://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals]]
-
-[[Docs|https://www.typescriptlang.org/docs/home.html]] [[中文版|https://github.com/zhongsp/TypeScript]]
-
-!! Book
-
-[[typescript-tutorial|https://github.com/xcatliu/typescript-tutorial]]
-
-[[Typescript Book|https://github.com/basarat/typescript-book]] [[中文版|https://jkchao.github.io/typescript-book-chinese/]]
+! [[TypeScript]]
 
 ! Check Compat
 

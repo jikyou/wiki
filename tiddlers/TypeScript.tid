@@ -1,0 +1,29 @@
+created: 20200427105736506
+modified: 20200428001359693
+tags: code javascript
+title: TypeScript
+
+
+[[Spec|https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md]]
+
+[[Design Goals|https://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals]]
+
+[[Docs|https://www.typescriptlang.org/docs/home.html]] [[中文版|https://github.com/zhongsp/TypeScript]]
+
+! Book
+
+[[typescript-tutorial|https://github.com/xcatliu/typescript-tutorial]]
+
+[[Typescript Book|https://github.com/basarat/typescript-book]] [[中文版|https://github.com/jkchao/typescript-book-chinese]]
+
+! Package
+
+[[TypeSearch|https://microsoft.github.io/TypeSearch/]]
+
+[[DefinitelyTyped|https://github.com/DefinitelyTyped/DefinitelyTyped]]
+
+! Awesome
+
+[[dzharii/awesome-typescript|https://github.com/dzharii/awesome-typescript]]
+
+[[semlinker/awesome-typescript|https://github.com/semlinker/awesome-typescript]]
