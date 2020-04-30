@@ -1,0 +1,22 @@
+created: 20200430110805849
+modified: 20200430110846352
+tags: microservice
+title: 服务监控
+
+! [[ELK|https://www.elastic.co]]
+
+Elasticsearch、Logstash、Kibana、Beats
+
+! [[Graphite|https://github.com/graphite-project]]
+
+Carbon、Whisper、Graphite-Web
+
+Graphite 自身并不包含数据采集组件，可以接入 [[Statsd|https://github.com/statsd/statsd]]
+
+! TICK
+
+Telegraf、InfluxDB、Chronograf、Kapacitor
+
+! [[Prometheus|https://github.com/prometheus]]
+
+Prometheus Server、Jobs/exporters、Pushgateway、Alertmanager、Prometheus web UI

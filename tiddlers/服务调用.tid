@@ -1,0 +1,22 @@
+created: 20200430110954900
+modified: 20200430111008867
+tags: microservice
+title: 服务调用
+
+! 语言平台绑定的开源 RPC 框架
+
+!! [[Dubbo|https://github.com/apache/dubbo]]
+
+!! [[Motan|https://github.com/weibocom/motan]]
+
+!! [[Tars|https://github.com/TarsCloud/Tars]]
+
+!! [[Spring Cloud|https://spring.io/projects/spring-cloud]]
+
+! 跨语言平台的开源 RPC 框架
+
+!! [[gRPC|https://grpc.io]]
+
+[[Protocol Buffers|https://developers.google.com/protocol-buffers/docs/overview]]
+
+!! [[Thrift|https://github.com/apache/thrift]]

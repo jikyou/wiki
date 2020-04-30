@@ -1,5 +1,5 @@
 created: 20200418052723659
-modified: 20200428024830706
+modified: 20200428113916166
 tags: node.js javascript code
 title: Node.js
 
@@ -10,12 +10,16 @@ title: Node.js
 
 [[Docs|http://docs.libuv.org/en/latest/index.html]]
 
+! Book
+
+[[深入浅出 Node.js|https://book.douban.com/subject/25768396/]]
+
+[[Stream Handbook|https://github.com/substack/stream-handbook]]
+
 ! [[Command Line|Node.js Command Line]]
 
 ! Awesome
 
 [[Nodebestpractices|https://github.com/goldbergyoni/nodebestpractices]]
-
-[[Stream Handbook|https://github.com/substack/stream-handbook]]
 
 [[sindresorhus/awesome-nodejs|https://github.com/sindresorhus/awesome-nodejs]]
