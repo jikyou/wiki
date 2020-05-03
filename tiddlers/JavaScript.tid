@@ -1,5 +1,5 @@
 created: 20200426085607243
-modified: 20200428035505596
+modified: 20200501051848327
 tags: javascript code
 title: JavaScript
 
@@ -7,6 +7,10 @@ title: JavaScript
 [[ECMA|https://www.ecma-international.org/]]
 
 [[|All Ecma Standards|https://www.ecma-international.org/publications/standards/Standard.htm]]
+
+[[ECMAScript-new-features-list|https://github.com/daumann/ECMAScript-new-features-list]]
+
+[[Proposals|https://github.com/tc39/proposals]]
 
 ! Specification
 
