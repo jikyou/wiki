@@ -1,9 +1,9 @@
 created: 20200323095447153
-modified: 20200323101415617
+modified: 20200505014529892
 tags: html cheatsheet
 title: HTML Cheatsheet
 
-! Head
+! head
 
 https://github.com/joshbuchea/HEAD
 
@@ -17,3 +17,8 @@ https://github.com/joshbuchea/HEAD
  -->
 <title>Page Title</title>
 ```
+
+! meta
+
+https://github.com/gokulkrishh/awesome-meta-and-manifest
+

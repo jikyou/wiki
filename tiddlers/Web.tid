@@ -1,5 +1,5 @@
 created: 20200321155524834
-modified: 20200426085932736
+modified: 20200505110123997
 tags: web
 title: Web
 
@@ -28,9 +28,11 @@ title: Web
 
 ! [[WCAG - Web Content Accessibility Guidelines|https://www.w3.org/WAI/standards-guidelines/wcag/]]
 
-!! Specification
+[[Spec WCAG21|https://www.w3.org/TR/WCAG21/]]
 
-[[WCAG21|https://www.w3.org/TR/WCAG21/]]
+! Accessible Rich Internet Applications - WAI-ARIA
+
+[[Spec|https://www.w3.org/TR/wai-aria/]]
 
 ! DOM - Document Object Model
 
