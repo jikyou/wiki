@@ -1,5 +1,5 @@
 created: 20200330010907513
-modified: 20200404002413484
+modified: 20200510031840735
 tags: kubernetes
 title: Kubernetes
 
@@ -36,3 +36,7 @@ title: Kubernetes
 [[Origin MySQL StatefulSet|https://github.com/oracle/kubernetes-website/blob/master/docs/tasks/run-application/mysql-statefulset.yaml]]
 
 [[MySQL StatefulSet|https://github.com/kubernetes/website/blob/master/content/en/examples/application/mysql/mysql-statefulset.yaml]]
+
+! Awesome
+
+[[awesome-kubernetes|https://github.com/ramitsurana/awesome-kubernetes]]
