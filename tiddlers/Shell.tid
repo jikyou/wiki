@@ -1,0 +1,18 @@
+created: 20200520075901103
+modified: 20200520075915584
+tags: command
+title: Shell
+
+! fish
+
+```
+sudo apt-add-repository ppa:fish-shell/release-3
+sudo apt-get update
+sudo apt-get install fish
+```
+
+!! oh-my-fish
+
+```
+curl -L https://get.oh-my.fish | fish
+```

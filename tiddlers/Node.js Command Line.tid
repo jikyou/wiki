@@ -1,7 +1,19 @@
 created: 20200428024622700
-modified: 20200428024808303
+modified: 20200520075934512
 tags: node.js javascript code
 title: Node.js Command Line
+
+! [[Install|https://github.com/nodesource/distributions/blob/master/README.md]]
+
+```
+# Using Ubuntu
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+# Using Debian, as root
+curl -sL https://deb.nodesource.com/setup_14.x | bash -
+apt-get install -y nodejs
+```
 
 ! Package Manage
 
