@@ -1,5 +1,5 @@
 created: 20200521062442385
-modified: 20200521062726652
+modified: 20200522122336031
 tags: blockchain
 title: Bitcoin
 
@@ -8,3 +8,9 @@ title: Bitcoin
 [[hash-rate|https://blockchain.info/charts/hash-rate]]
 
 [[wiki|https://en.bitcoin.it/wiki/Main_Page]]
+
+! Book
+
+[[bitcoinbook|https://github.com/bitcoinbook/bitcoinbook]] [[中文版|https://github.com/tianmingyun/MasterBitcoin2CN]]
+
+[[blockchain_guide|https://github.com/yeasy/blockchain_guide]]
