@@ -1,8 +1,19 @@
 created: 20200417043824877
-modified: 20200506144406849
+modified: 20200521053432997
 tags: blockchain
 title: BlockChain
 
+! [[Bitcoin]]
+
+! [[Ethereum]]
+
+! [[EOS]]
+
+!  Build blockchains
+
+[[programming-blockchains-step-by-step|https://yukimotopress.github.io/programming-blockchains-step-by-step]]
+
+[[openblockchains/awesome-blockchains|https://github.com/openblockchains/awesome-blockchains]]
 
 ! Awesome
 
