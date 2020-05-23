@@ -1,5 +1,5 @@
 created: 20200417043824877
-modified: 20200522043309850
+modified: 20200523015444749
 tags: blockchain
 title: BlockChain
 
@@ -14,6 +14,10 @@ title: BlockChain
 [[programming-blockchains-step-by-step|https://yukimotopress.github.io/programming-blockchains-step-by-step]]
 
 [[openblockchains/awesome-blockchains|https://github.com/openblockchains/awesome-blockchains]]
+
+! Book
+
+[[blockchain_guide|https://github.com/yeasy/blockchain_guide]]
 
 ! Awesome
 
