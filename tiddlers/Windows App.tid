@@ -1,0 +1,20 @@
+created: 20200521021159828
+modified: 20200521053744519
+tags: app
+title: Windows App
+
+! terminal
+
+[[terminal|https://github.com/microsoft/terminal]]
+
+! key
+
+[[Hotkey|https://github.com/Lexikos/AutoHotkey_L]]
+
+! remap key
+
+[[Sharpkeys|https://github.com/randyrants/sharpkeys]]
+
+! clipboard
+
+[[Ditto|https://ditto-cp.sourceforge.io/]]

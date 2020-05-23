@@ -1,0 +1,10 @@
+created: 20200521043251632
+modified: 20200521043334116
+tags: command
+title: Windows Subsystem Linux
+
+! Change User
+
+```
+ubuntu1604 config --default-user <username>
+```

@@ -1,0 +1,11 @@
+created: 20200522013949714
+modified: 20200522014149638
+tags: linux command
+title: Linux Command Line
+
+!  [[Add User to sudo or admin Group|https://www.tecmint.com/fix-user-is-not-in-the-sudoers-file-the-incident-will-be-reported-ubuntu/]]
+
+```
+adduser username sudo
+adduser username admin
+```
