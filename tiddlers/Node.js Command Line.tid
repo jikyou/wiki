@@ -1,5 +1,5 @@
 created: 20200428024622700
-modified: 20200520075934512
+modified: 20200521132838785
 tags: node.js javascript code
 title: Node.js Command Line
 
@@ -13,6 +13,14 @@ sudo apt-get install -y nodejs
 # Using Debian, as root
 curl -sL https://deb.nodesource.com/setup_14.x | bash -
 apt-get install -y nodejs
+```
+
+! Scaffold
+
+[[generators|https://yeoman.io/generators/]]
+
+```
+npm install -g yo
 ```
 
 ! Package Manage
