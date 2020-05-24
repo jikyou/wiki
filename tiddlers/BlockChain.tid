@@ -1,15 +1,17 @@
 created: 20200417043824877
-modified: 20200523015444749
+modified: 20200523031513583
 tags: blockchain
-title: BlockChain
+title: Blockchain
 
-! [[Bitcoin]]
+! Public
 
-! [[Ethereum]]
+!! [[Bitcoin]]
 
-! [[EOS]]
+!! [[Ethereum]]
 
-!  Build blockchains
+!! [[EOS]]
+
+!  Build
 
 [[programming-blockchains-step-by-step|https://yukimotopress.github.io/programming-blockchains-step-by-step]]
 
@@ -18,6 +20,16 @@ title: BlockChain
 ! Book
 
 [[blockchain_guide|https://github.com/yeasy/blockchain_guide]]
+
+! Concept
+
+''全节点''是一个独立节点，可以自己验证交易并且可以挖矿的节点。
+
+''自私挖矿''是指矿工先通过较大算力积累优势，挖出多的块的同时不广播，等别人广播一个新区块的时候，自己一下广播2个甚至更多区块，让别人一直处于被分分叉的状态，自己成为矿霸，可以形成100%出块率。
+
+''双花攻击''就是指一个币可以花费两次，属于数据库一致性问题。
+
+''重放攻击''与传统it的重放不同，是指硬分叉的两条链的交易都是合法的，可以在 a 生成交易后去 b 上去花费。
 
 ! Awesome
 

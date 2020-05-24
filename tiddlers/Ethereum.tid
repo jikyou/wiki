@@ -1,7 +1,44 @@
 created: 20200521065245971
-modified: 20200521065304757
+modified: 20200524031616911
 tags: blockchain
 title: Ethereum
 
 
 [[Home|https://ethereum.org/]]
+
+[[geth|https://geth.ethereum.org/]]
+
+! Smart Contract
+
+!! Editor
+
+[[Remix|https://remix.ethereum.org/]]
+
+!! Template
+
+Ethereum Request for Comments
+
+!!! ERC20
+
+```
+// ---------------------------------------------
+// ERC Token Standard #20 Interface
+// https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md
+// -------------------------------------------
+contract ERC20Interface {
+    function totalSupply() public constant returns (uint);
+    function balanceOf(address tokenOwner) public constant returns (uint balance);
+    function allowance(address tokenOwner, address spender) public constant returns (uint remaining);
+    function transfer(address to, uint tokens) public returns (bool success);
+    function approve(address spender, uint tokens) public returns (bool success);
+    function transferFrom(address from, address to, uint tokens) public returns (bool success);
+    event Transfer(address indexed from, address indexed to, uint tokens);
+    event Approval(address indexed tokenOwner, address indexed spender, uint tokens);
+}
+```
+
+!!! ERC223
+
+!!! ERC721
+
+
