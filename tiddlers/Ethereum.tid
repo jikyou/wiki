@@ -1,10 +1,12 @@
 created: 20200521065245971
-modified: 20200524031616911
+modified: 20200525151919533
 tags: blockchain
 title: Ethereum
 
 
 [[Home|https://ethereum.org/]]
+
+[[White Paper|https://ethereum.org/whitepaper/]]
 
 [[geth|https://geth.ethereum.org/]]
 
@@ -41,4 +43,6 @@ contract ERC20Interface {
 
 !!! ERC721
 
+! Book
 
+[[ethereumbook|https://github.com/ethereumbook/ethereumbook]] [[中文版|https://github.com/inoutcode/ethereum_book]]

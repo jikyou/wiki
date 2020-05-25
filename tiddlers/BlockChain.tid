@@ -1,5 +1,5 @@
 created: 20200417043824877
-modified: 20200523031513583
+modified: 20200525151810552
 tags: blockchain
 title: Blockchain
 
@@ -11,11 +11,17 @@ title: Blockchain
 
 !! [[EOS]]
 
+!! [[libra|https://libra.org/]]
+
+[[White Paper|https://libra.org/en-US/white-paper/]]
+
 !  Build
 
 [[programming-blockchains-step-by-step|https://yukimotopress.github.io/programming-blockchains-step-by-step]]
 
 [[openblockchains/awesome-blockchains|https://github.com/openblockchains/awesome-blockchains]]
+
+[[openblockchains/programming-blockchains|https://github.com/openblockchains/programming-blockchains]]
 
 ! Book
 
@@ -34,6 +40,8 @@ title: Blockchain
 ! Awesome
 
 [[wiki.learnblockchain|https://wiki.learnblockchain.cn/]]
+
+[[yjjnls/awesome-blockchain|https://github.com/yjjnls/awesome-blockchain]]
 
 ! Market
 
