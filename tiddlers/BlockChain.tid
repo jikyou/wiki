@@ -1,19 +1,9 @@
 created: 20200417043824877
-modified: 20200525151810552
+modified: 20200525233600500
 tags: blockchain
 title: Blockchain
 
-! Public
-
-!! [[Bitcoin]]
-
-!! [[Ethereum]]
-
-!! [[EOS]]
-
-!! [[libra|https://libra.org/]]
-
-[[White Paper|https://libra.org/en-US/white-paper/]]
+! [[Public Chain]]
 
 !  Build
 
@@ -42,6 +32,8 @@ title: Blockchain
 [[wiki.learnblockchain|https://wiki.learnblockchain.cn/]]
 
 [[yjjnls/awesome-blockchain|https://github.com/yjjnls/awesome-blockchain]]
+
+[[All Crypto White Papers|https://www.allcryptowhitepapers.com/]]
 
 ! Market
 

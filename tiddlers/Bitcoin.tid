@@ -1,15 +1,25 @@
 created: 20200521062442385
-modified: 20200524132355944
+modified: 20200525232925840
 tags: blockchain
 title: Bitcoin
+
+[[Home|https://bitcoin.org/en/]]
+
+[[White Paper|https://bitcoin.org/bitcoin.pdf]]
+
+[[Source Code|https://github.com/bitcoin/bitcoin]]
+
+[[Bitcoin Improvement Proposals - bips|https://github.com/bitcoin/bips]]
+
+! Detail
 
 [[Genesis Block|https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f]]
 
 [[hash-rate|https://blockchain.info/charts/hash-rate]]
 
-[[wiki|https://en.bitcoin.it/wiki/Main_Page]]
+! Awesome
 
-[[Bitcoin Improvement Proposals - bips|https://github.com/bitcoin/bips]]
+[[wiki|https://en.bitcoin.it/wiki/Main_Page]]
 
 ! Book
 

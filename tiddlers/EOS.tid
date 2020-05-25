@@ -1,7 +1,11 @@
 created: 20200521060801794
-modified: 20200521060933195
+modified: 20200525233309505
 tags: blockchain
 title: EOS
 
+
+[[Home|https://eos.io/]]
+
+[[White Paper|https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md]]
 
 [[dev doc|https://developers.eos.io/]]
