@@ -1,5 +1,5 @@
 created: 20200417043824877
-modified: 20200525233600500
+modified: 20200526031236409
 tags: blockchain
 title: Blockchain
 
@@ -12,6 +12,8 @@ title: Blockchain
 [[openblockchains/awesome-blockchains|https://github.com/openblockchains/awesome-blockchains]]
 
 [[openblockchains/programming-blockchains|https://github.com/openblockchains/programming-blockchains]]
+
+[[tinychain|https://github.com/betachen/tinychain]]
 
 ! Book
 

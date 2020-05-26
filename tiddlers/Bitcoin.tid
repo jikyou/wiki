@@ -1,13 +1,15 @@
 created: 20200521062442385
-modified: 20200525232925840
+modified: 20200526031016496
 tags: blockchain
 title: Bitcoin
 
 [[Home|https://bitcoin.org/en/]]
 
-[[White Paper|https://bitcoin.org/bitcoin.pdf]]
+[[White Paper|https://bitcoin.org/bitcoin.pdf]] [[中文版|https://github.com/GammaGao/bitcoinwhitepaper/blob/master/bitcoin_cn.pdf]]
 
 [[Source Code|https://github.com/bitcoin/bitcoin]]
+
+[[develop|https://developer.bitcoin.org/]]
 
 [[Bitcoin Improvement Proposals - bips|https://github.com/bitcoin/bips]]
 

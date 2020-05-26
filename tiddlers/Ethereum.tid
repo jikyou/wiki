@@ -1,12 +1,12 @@
 created: 20200521065245971
-modified: 20200525151919533
+modified: 20200526041230000
 tags: blockchain
 title: Ethereum
 
 
 [[Home|https://ethereum.org/]]
 
-[[White Paper|https://ethereum.org/whitepaper/]]
+[[White Paper|https://ethereum.org/whitepaper/]] [[中文版|https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6]]
 
 [[geth|https://geth.ethereum.org/]]
 
