@@ -1,5 +1,5 @@
 created: 20200521062442385
-modified: 20200526031016496
+modified: 20200531002543629
 tags: blockchain
 title: Bitcoin
 
@@ -18,6 +18,30 @@ title: Bitcoin
 [[Genesis Block|https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f]]
 
 [[hash-rate|https://blockchain.info/charts/hash-rate]]
+
+[[Calculate suitable fees|https://bitcoinfees.earn.com/]]
+
+! Client
+
+[[MasterBitcoin2 Refer|https://github.com/tianmingyun/MasterBitcoin2CN/blob/master/ch03.md#35-%E5%85%B6%E4%BB%96%E5%8F%AF%E9%80%89%E7%9A%84%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93%E5%B7%A5%E5%85%B7%E5%8C%85]]
+
+! Concept
+
+P2PKH（Pay-toPublic-Key-Hash）
+
+P2SH (Pay-to-Script Hash)
+
+P2WPKH
+
+P2WSH
+
+! Generator
+
+[[bitcoinpaperwallet|https://bitcoinpaperwallet.com/]]
+
+[[Bitcoin Wallet Generator|https://www.bitaddress.org/]]
+
+[[BIP39 mnemonic|https://iancoleman.io/bip39/]]
 
 ! Awesome
 

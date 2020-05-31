@@ -1,5 +1,5 @@
 created: 20200521065245971
-modified: 20200526041230000
+modified: 20200530075436697
 tags: blockchain
 title: Ethereum
 
@@ -8,7 +8,13 @@ title: Ethereum
 
 [[White Paper|https://ethereum.org/whitepaper/]] [[中文版|https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6]]
 
+[[Ethereum Improvement Proposal EIPs|https://github.com/ethereum/EIPs]]
+
+! Client
+
 [[geth|https://geth.ethereum.org/]]
+
+[[Parity|https://github.com/openethereum/openethereum]]
 
 ! Smart Contract
 
