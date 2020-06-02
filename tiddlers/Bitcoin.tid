@@ -1,13 +1,11 @@
 created: 20200521062442385
-modified: 20200531002543629
+modified: 20200602012805493
 tags: blockchain
 title: Bitcoin
 
 [[Home|https://bitcoin.org/en/]]
 
 [[White Paper|https://bitcoin.org/bitcoin.pdf]] [[中文版|https://github.com/GammaGao/bitcoinwhitepaper/blob/master/bitcoin_cn.pdf]]
-
-[[Source Code|https://github.com/bitcoin/bitcoin]]
 
 [[develop|https://developer.bitcoin.org/]]
 
@@ -21,9 +19,19 @@ title: Bitcoin
 
 [[Calculate suitable fees|https://bitcoinfees.earn.com/]]
 
+[[Target|https://en.bitcoin.it/wiki/Target]]
+
+[[GLOBAL BITCOIN NODES DISTRIBUTION|https://bitnodes.io/]]
+
+[[Script|https://en.bitcoin.it/wiki/Script]]
+
+[[Merkle Tree|https://en.wikipedia.org/wiki/Merkle_tree]]
+
 ! Client
 
-[[MasterBitcoin2 Refer|https://github.com/tianmingyun/MasterBitcoin2CN/blob/master/ch03.md#35-%E5%85%B6%E4%BB%96%E5%8F%AF%E9%80%89%E7%9A%84%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93%E5%B7%A5%E5%85%B7%E5%8C%85]]
+[[Wiki Refer|https://en.bitcoin.it/wiki/Clients]]
+
+[[Mastering Bitcoin 2nd Edition Refer|https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc#alternative-clients-libraries-and-toolkits]]
 
 ! Concept
 

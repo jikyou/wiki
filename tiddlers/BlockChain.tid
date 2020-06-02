@@ -1,9 +1,21 @@
 created: 20200417043824877
-modified: 20200526031236409
+modified: 20200602013206147
 tags: blockchain
 title: Blockchain
 
 ! [[Public Chain]]
+
+! Technical point
+
+!! Lightning Network
+
+!!! White Paper
+
+[[The Bitcoin Lightning Network:Scalable Off-Chain Instant Payments|http://lightning.network/lightning-network-paper.pdf]]
+
+[[Flare: An Approach to Routingin Lightning Network|https://bitfury.com/content/downloads/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf]]
+
+!!! [[RFC|https://github.com/lightningnetwork/lightning-rfc]]
 
 !  Build
 
@@ -29,6 +41,9 @@ title: Blockchain
 
 ''重放攻击''与传统it的重放不同，是指硬分叉的两条链的交易都是合法的，可以在 a 生成交易后去 b 上去花费。
 
+"女巫攻擊(Sybil Attack)"是一種在線網路安全系統威脅，是指個人試圖通過創建多個帳户身份，
+多個節點或電腦坐標從而控制網絡。
+
 ! Awesome
 
 [[wiki.learnblockchain|https://wiki.learnblockchain.cn/]]
@@ -36,6 +51,10 @@ title: Blockchain
 [[yjjnls/awesome-blockchain|https://github.com/yjjnls/awesome-blockchain]]
 
 [[All Crypto White Papers|https://www.allcryptowhitepapers.com/]]
+
+!! Security
+
+[[slowmist/Knowledge-Base|https://github.com/slowmist/Knowledge-Base]]
 
 ! Market
 
