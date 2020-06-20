@@ -1,5 +1,5 @@
 created: 20200430110911816
-modified: 20200430110923766
+modified: 20200620093153056
 tags: microservice
 title: 服务追踪
 
@@ -8,6 +8,8 @@ title: 服务追踪
 ! [[Twitter OpenZipkin|https://github.com/openzipkin/zipkin]]
 
 ! [[Naver Pinpoint|https://github.com/naver/pinpoint]]
+
+! [[Opentracing|https://opentracing.io/]]
 
 ! Other
 
