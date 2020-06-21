@@ -1,5 +1,5 @@
 created: 20200427105736506
-modified: 20200428001359693
+modified: 20200621130401977
 tags: code javascript
 title: TypeScript
 
@@ -8,7 +8,11 @@ title: TypeScript
 
 [[Design Goals|https://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals]]
 
+[[Roadmap|https://github.com/Microsoft/TypeScript/wiki/Roadmap]]
+
 [[Docs|https://www.typescriptlang.org/docs/home.html]] [[中文版|https://github.com/zhongsp/TypeScript]]
+
+[[Playground|https://www.typescriptlang.org/play/index.html]]
 
 ! Book
 

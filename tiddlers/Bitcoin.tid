@@ -37,11 +37,11 @@ title: Bitcoin
 
 P2PKH（Pay-toPublic-Key-Hash）
 
-P2SH (Pay-to-Script Hash)
+P2SH (Pay-to-Script-Hash)
 
-P2WPKH
+P2WPKH (Pay-to-Witness-Public-Key-Hash)
 
-P2WSH
+P2WSH (Pay-to-Witness-Script-Hash)
 
 ! Generator
 
