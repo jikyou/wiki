@@ -1,5 +1,5 @@
 created: 20200427105736506
-modified: 20200621130401977
+modified: 20200629124456393
 tags: code javascript
 title: TypeScript
 
@@ -10,7 +10,7 @@ title: TypeScript
 
 [[Roadmap|https://github.com/Microsoft/TypeScript/wiki/Roadmap]]
 
-[[Docs|https://www.typescriptlang.org/docs/home.html]] [[中文版|https://github.com/zhongsp/TypeScript]]
+[[Docs|https://www.typescriptlang.org/docs/home.html]] [[中文版|https://app.gitbook.com/@zhongsp/s/typescript-handbook/]]
 
 [[Playground|https://www.typescriptlang.org/play/index.html]]
 
@@ -18,7 +18,7 @@ title: TypeScript
 
 [[typescript-tutorial|https://github.com/xcatliu/typescript-tutorial]]
 
-[[Typescript Book|https://github.com/basarat/typescript-book]] [[中文版|https://github.com/jkchao/typescript-book-chinese]]
+[[Typescript Book|https://github.com/basarat/typescript-book]] [[中文版|https://jkchao.github.io/typescript-book-chinese/]]
 
 ! Package
 
