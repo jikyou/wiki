@@ -1,0 +1,15 @@
+created: 20200705134417861
+modified: 20200705141231290
+tags: security
+title: Web Security
+
+! XSS Cross-Site Scripting
+
+反射型 XSS
+
+基于 DOM 的 XSS
+
+持久型 XSS
+
+! SQL 注入
+
