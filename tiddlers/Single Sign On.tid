@@ -1,5 +1,5 @@
 created: 20200705072052440
-modified: 20200705072828362
+modified: 20200708133331241
 tags: security
 title: Single Sign On
 
@@ -10,4 +10,4 @@ title: Single Sign On
 
 [[OAuth|https://oauth.net/]]
 
-[[|https://openid.net/]]
+[[OpenID|https://openid.net/]]

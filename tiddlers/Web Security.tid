@@ -1,5 +1,5 @@
 created: 20200705134417861
-modified: 20200705141231290
+modified: 20200708133522661
 tags: security
 title: Web Security
 
@@ -13,3 +13,10 @@ title: Web Security
 
 ! SQL 注入
 
+! CSRF / SSRF
+
+Cross-Site Request Forgery
+
+Server Side Request Forgery
+
+! 反序列化漏洞
