@@ -1,0 +1,13 @@
+created: 20200705072052440
+modified: 20200708133331241
+tags: security
+title: Single Sign On
+
+
+[[CAS |https://apereo.github.io/cas/6.2.x/index.html]]
+
+[[JWT|https://jwt.io/]]
+
+[[OAuth|https://oauth.net/]]
+
+[[OpenID|https://openid.net/]]

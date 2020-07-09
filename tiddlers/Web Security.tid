@@ -1,0 +1,22 @@
+created: 20200705134417861
+modified: 20200708133522661
+tags: security
+title: Web Security
+
+! XSS Cross-Site Scripting
+
+反射型 XSS
+
+基于 DOM 的 XSS
+
+持久型 XSS
+
+! SQL 注入
+
+! CSRF / SSRF
+
+Cross-Site Request Forgery
+
+Server Side Request Forgery
+
+! 反序列化漏洞
