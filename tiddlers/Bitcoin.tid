@@ -1,15 +1,23 @@
 created: 20200521062442385
-modified: 20200602012805493
+modified: 20200802032513290
 tags: blockchain
 title: Bitcoin
 
 [[Home|https://bitcoin.org/en/]]
+[[developer.bitcoin|https://developer.bitcoin.org/]]
+
+[[Wiki|https://en.bitcoin.it/wiki/Main_Page]]
+[[Bitcoinwiki|https://en.bitcoinwiki.org/wiki/Main_Page]]
 
 [[White Paper|https://bitcoin.org/bitcoin.pdf]] [[中文版|https://github.com/GammaGao/bitcoinwhitepaper/blob/master/bitcoin_cn.pdf]]
 
-[[develop|https://developer.bitcoin.org/]]
-
 [[Bitcoin Improvement Proposals - bips|https://github.com/bitcoin/bips]]
+
+! Client
+
+[[Wiki Refer|https://en.bitcoin.it/wiki/Clients]]
+
+[[Mastering Bitcoin 2nd Edition Refer|https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc#alternative-clients-libraries-and-toolkits]]
 
 ! Detail
 
@@ -19,29 +27,13 @@ title: Bitcoin
 
 [[Calculate suitable fees|https://bitcoinfees.earn.com/]]
 
-[[Target|https://en.bitcoin.it/wiki/Target]]
-
 [[GLOBAL BITCOIN NODES DISTRIBUTION|https://bitnodes.io/]]
+
+[[Target|https://en.bitcoin.it/wiki/Target]]
 
 [[Script|https://en.bitcoin.it/wiki/Script]]
 
 [[Merkle Tree|https://en.wikipedia.org/wiki/Merkle_tree]]
-
-! Client
-
-[[Wiki Refer|https://en.bitcoin.it/wiki/Clients]]
-
-[[Mastering Bitcoin 2nd Edition Refer|https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc#alternative-clients-libraries-and-toolkits]]
-
-! Concept
-
-P2PKH（Pay-toPublic-Key-Hash）
-
-P2SH (Pay-to-Script-Hash)
-
-P2WPKH (Pay-to-Witness-Public-Key-Hash)
-
-P2WSH (Pay-to-Witness-Script-Hash)
 
 ! Generator
 
@@ -53,8 +45,16 @@ P2WSH (Pay-to-Witness-Script-Hash)
 
 ! Awesome
 
-[[wiki|https://en.bitcoin.it/wiki/Main_Page]]
+[[awesome-bitcoin-payment-processors|https://github.com/alexk111/awesome-bitcoin-payment-processors]]
+
+[[awesome-bitcoin|https://github.com/igorbarinov/awesome-bitcoin]]
 
 ! Book
 
 [[bitcoinbook|https://github.com/bitcoinbook/bitcoinbook]] [[中文版|https://github.com/tianmingyun/MasterBitcoin2CN]]
+
+! Community
+
+[[Bitcoinedge|https://bitcoinedge.org/]]
+
+[[Scalingbitcoin|https://scalingbitcoin.org/]]
