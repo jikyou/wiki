@@ -1,7 +1,7 @@
 created: 20200525233604456
-modified: 20200525233610661
+modified: 20200724161642836
 tags: blockchain
-title: Public Chain
+title: Chain
 
 
 !! [[Bitcoin]]
@@ -11,3 +11,5 @@ title: Public Chain
 !! [[EOS]]
 
 !! [[libra]]
+
+!! [[Hyperledger]]
