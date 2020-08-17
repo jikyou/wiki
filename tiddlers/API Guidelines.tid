@@ -1,0 +1,8 @@
+created: 20200817030122784
+modified: 20200817030256618
+tags: api
+title: API Guidelines
+
+!! REST
+
+[[Microsoft/api-guidelines|https://github.com/Microsoft/api-guidelines]]
