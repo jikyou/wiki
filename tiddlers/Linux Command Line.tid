@@ -1,5 +1,5 @@
 created: 20200522013949714
-modified: 20200522014149638
+modified: 20200718080436610
 tags: linux command
 title: Linux Command Line
 
@@ -8,4 +8,13 @@ title: Linux Command Line
 ```
 adduser username sudo
 adduser username admin
+```
+
+! Auth
+
+```
+chage -M 60 test
+chattr +i /etc/passwd
+chmod +t /tmp
+su -s /bin/redis-server nobody
 ```

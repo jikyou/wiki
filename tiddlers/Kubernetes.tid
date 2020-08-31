@@ -1,5 +1,5 @@
 created: 20200330010907513
-modified: 20200510031840735
+modified: 20200809023930260
 tags: kubernetes
 title: Kubernetes
 
@@ -28,6 +28,10 @@ title: Kubernetes
 !! CSI / Container Storage Interface
 
 [[Spec|https://github.com/container-storage-interface/spec/blob/master/spec.md]]
+
+!! SMI / Service Mesh Interface
+
+[[Spec|https://github.com/servicemeshinterface/smi-spec]]
 
 ! Example
 
