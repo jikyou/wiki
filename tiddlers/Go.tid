@@ -1,5 +1,5 @@
 created: 20200321171035968
-modified: 20200415005043147
+modified: 20200901081423366
 tags: go
 title: Go
 
@@ -41,6 +41,8 @@ title: Go
 
 [[build-web-application-with-golang|https://github.com/astaxie/build-web-application-with-golang]]
 
+[[go-internals|https://github.com/teh-cmc/go-internals]] [[中文版|https://github.com/go-internals-cn/go-internals]]
+
 [[Go 语言中文开源图书|https://books.studygolang.com/]]
 
 !! Resource
@@ -52,6 +54,10 @@ title: Go
 [[go-best-practice|https://github.com/llitfkitfk/go-best-practice]]
 
 [[gotraining|https://github.com/ardanlabs/gotraining]]
+
+!! Conference
+
+[[Gopher China|https://github.com/gopherchina/conference]]
 
 !! History
 

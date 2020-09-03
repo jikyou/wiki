@@ -1,14 +1,10 @@
 created: 20200418052723659
-modified: 20200831122729400
+modified: 20200902172610481
 tags: node.js javascript code
 title: Node.js
 
 
 [[nodejs.dev|https://nodejs.dev/]]
-
-! [[libuv|https://github.com/libuv/libuv]]
-
-[[Docs|http://docs.libuv.org/en/latest/index.html]]
 
 ! Book
 
@@ -19,6 +15,20 @@ title: Node.js
 [[The Art of Node|https://github.com/maxogden/art-of-node]]
 
 [[NODESCHOOL|https://nodeschool.io/]]
+
+! Stuff
+
+[[node-interview|https://github.com/ElemeFE/node-interview]]
+
+[[nodejs.red|https://www.nodejs.red/#/README]]
+
+[[interview.nodejs.red|https://interview.nodejs.red/#/]]
+
+! Core
+
+[[libuv]]
+
+[[v8]]
 
 ! [[Command Line|Node.js Command Line]]
 
