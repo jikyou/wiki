@@ -1,7 +1,25 @@
 created: 20200521043251632
-modified: 20200521043334116
+modified: 20200925050638882
 tags: command
 title: Windows Subsystem Linux
+
+!  Install
+
+```
+# 1. Right-click Windows PowerShell and select Run as administrator.
+# 2. 
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+```
+
+! Config
+
+```
+{
+    "name": "Ubuntu-18.04",
+    "commandline" : "wsl -d Ubuntu-18.04",
+    "startingDirectory" : "//wsl$/Ubuntu-18.04/home/<Your Ubuntu Username>"
+}
+```
 
 ! Change User
 

@@ -1,0 +1,12 @@
+created: 20200925045458953
+modified: 20200925045559833
+tags: go command
+title: Golang Command Line
+
+! Install
+
+```
+sudo add-apt-repository ppa:longsleep/golang-backports
+sudo apt update
+sudo apt install golang-go
+```

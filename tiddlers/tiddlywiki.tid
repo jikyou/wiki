@@ -1,5 +1,5 @@
 created: 20200321133449690
-modified: 20200322055914879
+modified: 20200925044918019
 tags: command
 title: Tiddlywiki
 type: text/vnd.tiddlywiki
@@ -29,3 +29,7 @@ tiddlywiki . --build index
 ```
 tiddlywiki --editions
 ```
+
+! GUI
+
+[[Desktop|https://github.com/Jermolene/TiddlyDesktop/releases]]
