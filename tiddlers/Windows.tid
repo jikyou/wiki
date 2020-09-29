@@ -1,28 +1,33 @@
 created: 20200521021159828
-modified: 20200925044758312
-tags: app
-title: Windows App
+modified: 20200925052641970
+title: Windows
 
-! terminal
+! Software
+
+!! terminal
 
 [[terminal|https://github.com/microsoft/terminal]]
 
-! key
+!! key
 
 [[Hotkey|https://github.com/Lexikos/AutoHotkey_L]]
 
-! remap key
+!! remap key
 
 [[Sharpkeys|https://github.com/randyrants/sharpkeys]]
 
-! clipboard
+!! clipboard
 
 [[Ditto|https://ditto-cp.sourceforge.io/]]
 
-! Screenshot
+!! Screenshot
 
 [[Snipaste|https://zh.snipaste.com/]]
 
-! Directory
+!! Directory
 
 [[zeal|https://zealdocs.org/]]
+
+! Activation
+
+[[TGSAN/CMWTAT_Digital_Edition|https://github.com/TGSAN/CMWTAT_Digital_Edition]]
