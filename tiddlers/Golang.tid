@@ -25,6 +25,8 @@ title: Golang
 
 ! UnOfficial
 
+[[history|https://golang.design/history/]]
+
 !! Style Guide
 
 [[uber-go|https://github.com/uber-go/guide/blob/master/style.md]]
@@ -44,6 +46,8 @@ title: Golang
 [[go-internals|https://github.com/teh-cmc/go-internals]] [[中文版|https://github.com/go-internals-cn/go-internals]]
 
 [[Go 语言中文开源图书|https://books.studygolang.com/]]
+
+[[Go: Under The Hood|https://github.com/golang-design/under-the-hood]] [[Online|https://golang.design/under-the-hood/]]
 
 !! Resource
 

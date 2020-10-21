@@ -1,22 +1,28 @@
 created: 20200418052723659
-modified: 20200902172610481
-tags: node.js javascript code
+modified: 20200904060537400
+tags: node.js javascript
 title: Node.js
 
 
+[[nodejs.org|https://nodejs.org/]]
+
 [[nodejs.dev|https://nodejs.dev/]]
+
+! Core
+
+[[libuv]]
+
+[[v8]]
 
 ! Book
 
 [[深入浅出 Node.js|https://book.douban.com/subject/25768396/]]
 
-[[Stream Handbook|https://github.com/substack/stream-handbook]]
+! Stuff
 
 [[The Art of Node|https://github.com/maxogden/art-of-node]]
 
-[[NODESCHOOL|https://nodeschool.io/]]
-
-! Stuff
+[[Stream Handbook|https://github.com/substack/stream-handbook]]
 
 [[node-interview|https://github.com/ElemeFE/node-interview]]
 
@@ -24,11 +30,9 @@ title: Node.js
 
 [[interview.nodejs.red|https://interview.nodejs.red/#/]]
 
-! Core
+! Practice
 
-[[libuv]]
-
-[[v8]]
+[[NODESCHOOL|https://nodeschool.io/]]
 
 ! [[Command Line|Node.js Command Line]]
 
