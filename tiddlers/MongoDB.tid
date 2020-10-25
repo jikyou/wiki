@@ -1,9 +1,38 @@
 created: 20200404002831866
-modified: 20200419120125614
+modified: 20201024161449314
 tags: mongodb database
 title: MongoDB
 
-! [[Docs|https://docs.mongodb.com/manual/]]
+[[Docs|https://docs.mongodb.com/manual/]]
+
+[[Release Notes|https://docs.mongodb.com/manual/release-notes/]]
+
+[[Atlas - Cloud MongoDB|https://www.mongodb.com/cloud/atlas]]
+
+[[Cluster Data|https://docs.atlas.mongodb.com/interact-with-cluster-data/]]
+
+[[Limits|https://docs.mongodb.com/manual/reference/limits/]]
+
+! Design
+
+!! 内嵌
+
+# 对读操作通常有优势。
+
+!! 什么时候该使用引用方式?
+
+# 内嵌文档太大，数 MB 或者超过 16MB。
+# 内嵌文档或数组元素会频繁修改。
+# 内嵌数组元素会持续增长并且没有封顶。
+
+!! 设计模式
+
+# 列转行。转化为数组，一个索引解决所 有查询问题。
+# 文档版本。增加一个版本号字段，升级时候对不同版本的文档做不同的处理。
+# 子集。
+# 近似处理。间隔写入，每隔10次或者100次，大量减少写入需求。
+# 预聚合。模型中直接增加统计字段，每次更新数据时候同时更新统计值。
+# 分桶。利用文档内嵌数组，将一个时 间段的数据聚合到一个文档里。
 
 ! Book
 
