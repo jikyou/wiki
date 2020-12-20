@@ -1,0 +1,22 @@
+created: 20201122090859960
+modified: 20201122092404803
+tags: test
+title: Performance Test
+
+! HTTP
+
+[[ab - Apache HTTP server benchmarking tool|https://httpd.apache.org/docs/current/programs/ab.html]]
+
+```
+ab -n 1600 -c 200 <url>
+```
+
+[[webbench|http://home.tiscali.cz/~cz210552/webbench.html]]
+
+! CPU Memory
+
+top
+
+! IO
+
+iostat

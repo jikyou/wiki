@@ -1,5 +1,5 @@
 created: 20200418052723659
-modified: 20200904060537400
+modified: 20201122102250762
 tags: node.js javascript
 title: Node.js
 
@@ -30,14 +30,18 @@ title: Node.js
 
 [[interview.nodejs.red|https://interview.nodejs.red/#/]]
 
+! Awesome
+
+[[Nodebestpractices|https://github.com/goldbergyoni/nodebestpractices]]
+
+[[sindresorhus/awesome-nodejs|https://github.com/sindresorhus/awesome-nodejs]]
+
 ! Practice
 
 [[NODESCHOOL|https://nodeschool.io/]]
 
 ! [[Command Line|Node.js Command Line]]
 
-! Awesome
+! [[Performance|Node.js Performance]]
 
-[[Nodebestpractices|https://github.com/goldbergyoni/nodebestpractices]]
-
-[[sindresorhus/awesome-nodejs|https://github.com/sindresorhus/awesome-nodejs]]
+! [[Debug|Node.js Debug]]

@@ -1,14 +1,18 @@
 created: 20200430111046644
-modified: 20200430111056976
+modified: 20201220072723139
 tags: microservice
 title: 服务发现
 
-!! 应用内
-
-!!! [[Netflix Eureka|https://github.com/Netflix/eureka]]
-
-!! 应用外
+!! CP
 
 !!! [[Consul|https://github.com/hashicorp/consul]]
 
 Consul / [[Registrator|https://github.com/gliderlabs/registrator]] / [[Consul Template|https://github.com/hashicorp/consul-template]]
+
+!!! ZooKeeper
+
+!!! etcd
+
+!! AP
+
+!!! [[Netflix Eureka|https://github.com/Netflix/eureka]]

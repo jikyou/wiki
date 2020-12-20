@@ -1,0 +1,12 @@
+created: 20201122102253388
+modified: 20201122142410716
+tags: node.js
+title: Node.js Debug
+
+! Xcode
+
+```
+./configure -- -f xcode
+```
+
+[[gyp: No Xcode or CLT version detected!|https://github.com/nodejs/node-gyp/blob/master/macOS_Catalina.md]]
