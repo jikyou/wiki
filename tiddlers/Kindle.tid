@@ -1,0 +1,10 @@
+created: 20210102173356396
+modified: 20210102173607583
+tags: 
+title: Kindle
+
+!! Send Book
+
+```
+calibre-smtp -a example.mobi -r smtp.163.com --port=465 -e SSL -u example@email.com -p password example@email.com example@kindle.cn ""
+```

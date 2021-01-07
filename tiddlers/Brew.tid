@@ -1,5 +1,5 @@
 created: 20200521021017223
-modified: 20200521021126224
+modified: 20210103084202008
 tags: command
 title: Brew
 
@@ -9,4 +9,14 @@ title: Brew
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+
+! List
+
+```
+# show installed formulae that are not dependencies of another installed formula.
+brew leaves
+
+# list all installed cask
+brew list --casks
 ```
