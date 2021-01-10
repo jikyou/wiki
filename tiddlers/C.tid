@@ -1,0 +1,16 @@
+created: 20210110123300454
+modified: 20210110133319699
+tags: clang
+title: C
+
+! Standards
+
+[[JTC1/SC22/WG14 - C|http://www.open-std.org/jtc1/sc22/wg14/]]
+
+[[C - Project status and milestones|http://www.open-std.org/jtc1/sc22/wg14/www/projects]]
+
+[[iso-9899|http://www.iso-9899.info/]]
+
+! Compiler
+
+[[GCC]]

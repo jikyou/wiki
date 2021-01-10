@@ -1,5 +1,5 @@
 created: 20200628134936383
-modified: 20200703151753125
+modified: 20210110132526635
 tags: git
 title: Git Self Hosted
 
@@ -13,3 +13,5 @@ title: Git Self Hosted
 [[gerrit|https://www.gerritcodereview.com/]]
 
 [[glitch|https://glitch.com/]]
+
+[[savannah|https://savannah.gnu.org/]]
