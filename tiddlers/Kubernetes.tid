@@ -1,5 +1,5 @@
 created: 20200330010907513
-modified: 20210321113754863
+modified: 20210321130704631
 tags: [[Cloud Native]]
 title: Kubernetes
 type: text/vnd.tiddlywiki
@@ -34,6 +34,15 @@ type: text/vnd.tiddlywiki
 
 [[Spec|https://github.com/servicemeshinterface/smi-spec]]
 
+! Book
+
+[[Feisky Kubernetes|https://kubernetes.feisky.xyz/]]
+
+[[Kubernetes Handbook|https://github.com/rootsongjc/kubernetes-handbook]]
+
+[[Kubernetes The Hard Way|https://github.com/kelseyhightower/kubernetes-the-hard-way]]
+
+
 ! Example
 
 [[Task|https://kubernetes.io/docs/tasks/]]
@@ -45,3 +54,5 @@ type: text/vnd.tiddlywiki
 ! Awesome
 
 [[awesome-kubernetes|https://github.com/ramitsurana/awesome-kubernetes]]
+
+[[Awesome Kubernetes|https://redhatspain.com/]]
