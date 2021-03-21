@@ -1,7 +1,8 @@
 {
     "description": "Empty edition",
     "plugins": [
-        "tiddlywiki/filesystem"
+        "tiddlywiki/filesystem",
+        "tiddlywiki/tiddlyweb"
     ],
     "themes": [
         "tiddlywiki/vanilla",
@@ -43,6 +44,11 @@
             "$:/core/save/all",
             "externalimages.html",
             "text/plain"
+        ],
+        "favicon": [
+            "--savetiddler",
+            "$:/favicon.ico",
+            "favicon.ico"
         ],
         "static": [
             "--rendertiddler",

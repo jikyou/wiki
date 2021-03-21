@@ -1,7 +1,8 @@
 created: 20200430110954900
-modified: 20200503015127353
-tags: microservice
+modified: 20210321114134109
+tags: Microservices
 title: 服务调用
+type: text/vnd.tiddlywiki
 
 ! 语言平台绑定的开源 RPC 框架
 

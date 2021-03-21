@@ -1,7 +1,8 @@
 created: 20200521062442385
-modified: 20200802032513290
-tags: blockchain
+modified: 20210321113411764
+tags: Blockchain
 title: Bitcoin
+type: text/vnd.tiddlywiki
 
 [[Home|https://bitcoin.org/en/]]
 [[developer.bitcoin|https://developer.bitcoin.org/]]
@@ -52,6 +53,8 @@ title: Bitcoin
 ! Book
 
 [[bitcoinbook|https://github.com/bitcoinbook/bitcoinbook]] [[中文版|https://github.com/tianmingyun/MasterBitcoin2CN]]
+
+[[The Little Bitcoin Book|https://littlebitcoinbook.com/]] [[中文版|https://xiongxiaoer.gitbook.io/the-little-bitcoin-book/]]
 
 ! Community
 

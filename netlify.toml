@@ -1,8 +1,0 @@
-[build]
-  command = "jekyll build"
-  publish = "_site"
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    content-encoding = "gzip"

@@ -1,7 +1,8 @@
 created: 20200428024622700
-modified: 20200904060632943
-tags: node.js
+modified: 20210321115206094
+tags: Node.js
 title: Node.js Command Line
+type: text/vnd.tiddlywiki
 
 ! [[Install|https://github.com/nodesource/distributions/blob/master/README.md]]
 

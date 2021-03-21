@@ -1,5 +1,5 @@
 created: 20200321132428424
-modified: 20200322055854798
+modified: 20210306082655396
 tags: command
 title: ssh
 type: text/vnd.tiddlywiki
@@ -8,4 +8,10 @@ type: text/vnd.tiddlywiki
 
 ```
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+```
+
+! ssh-copy-id
+
+```
+ssh-copy-id pi@raspberrypi.local
 ```

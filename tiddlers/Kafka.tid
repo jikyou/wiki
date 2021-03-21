@@ -1,8 +1,8 @@
 created: 20200427021343083
-modified: 20200427061759603
-tags: apache java
+modified: 20210321114749103
+tags: Java
 title: Kafka
-
+type: text/vnd.tiddlywiki
 
 [[Documentation|https://kafka.apache.org/documentation/]]
 

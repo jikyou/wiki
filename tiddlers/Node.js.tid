@@ -1,8 +1,8 @@
 created: 20200418052723659
-modified: 20201122102250762
-tags: node.js javascript
+modified: 20210321115238568
+tags: JavaScript
 title: Node.js
-
+type: text/vnd.tiddlywiki
 
 [[nodejs.org|https://nodejs.org/]]
 
@@ -39,9 +39,3 @@ title: Node.js
 ! Practice
 
 [[NODESCHOOL|https://nodeschool.io/]]
-
-! [[Command Line|Node.js Command Line]]
-
-! [[Performance|Node.js Performance]]
-
-! [[Debug|Node.js Debug]]

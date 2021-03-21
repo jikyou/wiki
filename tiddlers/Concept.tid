@@ -1,7 +1,8 @@
 created: 20200724161824907
-modified: 20200724161828857
-tags: blockchain
+modified: 20210321113432082
+tags: Blockchain
 title: Concept
+type: text/vnd.tiddlywiki
 
 ''全节点''是一个独立节点，可以自己验证交易并且可以挖矿的节点。
 

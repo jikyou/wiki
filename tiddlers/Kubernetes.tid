@@ -1,7 +1,8 @@
 created: 20200330010907513
-modified: 20200809023930260
-tags: kubernetes
+modified: 20210321113754863
+tags: [[Cloud Native]]
 title: Kubernetes
+type: text/vnd.tiddlywiki
 
 [[Enhancements|https://github.com/kubernetes/enhancements]]
 

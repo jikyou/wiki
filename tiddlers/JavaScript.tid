@@ -1,8 +1,8 @@
 created: 20200426085607243
-modified: 20200904060552453
-tags: javascript
+modified: 20210321115008358
+tags: [[Programming language]]
 title: JavaScript
-
+type: text/vnd.tiddlywiki
 
 [[ECMA|https://www.ecma-international.org/]]
 
@@ -39,10 +39,6 @@ title: JavaScript
 ! Module
 
 [[Common JS|https://requirejs.org/]]
-
-! [[Node.js]]
-
-! [[TypeScript]]
 
 ! Check Compat
 
