@@ -1,7 +1,8 @@
 created: 20200406123838923
-modified: 20200503122515339
-tags: tool
+modified: 20210327052803919
+tags: Internet
 title: Fake Everything
+type: text/vnd.tiddlywiki
 
 ! Name / Address / Phone / User-Agent /else ...
 
@@ -28,8 +29,4 @@ title: Fake Everything
 
 [[Every Name Generator|https://www.name-generator.org.uk/]]
 
-[[美国州和加拿大省代码|https://www.ups.com/worldshiphelp/WS11/CHS/AppHelp/Codes/State_Province_Codes.htm]]
-
 [[Randomly Generated Identity|https://www.fakenamegenerator.com/]]
-
-
