@@ -11,4 +11,4 @@ build:
 	tiddlywiki . \
 	    --verbose \
 	    --version \
-	    --build static favicon index
+	    --build static index
