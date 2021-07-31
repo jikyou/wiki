@@ -1,5 +1,5 @@
 created: 20210110123300454
-modified: 20210321114652182
+modified: 20210330161516113
 tags: [[Programming language]]
 title: C
 type: text/vnd.tiddlywiki
@@ -15,3 +15,9 @@ type: text/vnd.tiddlywiki
 ! Compiler
 
 [[GCC]]
+
+! Book
+
+!! [[The C Programming Language|https://en.wikipedia.org/wiki/The_C_Programming_Language]]
+
+[[Sample|https://www.informit.com/store/c-programming-language-9780131103627]]

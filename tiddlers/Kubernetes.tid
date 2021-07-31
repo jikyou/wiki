@@ -1,5 +1,5 @@
 created: 20200330010907513
-modified: 20210321130704631
+modified: 20210328080947441
 tags: [[Cloud Native]]
 title: Kubernetes
 type: text/vnd.tiddlywiki
@@ -42,7 +42,6 @@ type: text/vnd.tiddlywiki
 
 [[Kubernetes The Hard Way|https://github.com/kelseyhightower/kubernetes-the-hard-way]]
 
-
 ! Example
 
 [[Task|https://kubernetes.io/docs/tasks/]]
@@ -56,3 +55,5 @@ type: text/vnd.tiddlywiki
 [[awesome-kubernetes|https://github.com/ramitsurana/awesome-kubernetes]]
 
 [[Awesome Kubernetes|https://redhatspain.com/]]
+
+[[awesome-k8s-security|https://github.com/magnologan/awesome-k8s-security]]
