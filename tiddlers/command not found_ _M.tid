@@ -1,0 +1,14 @@
+created: 20210807130605052
+modified: 20210807130745677
+tags: git
+title: command not found: ^M
+type: text/vnd.tiddlywiki
+
+
+```
+# close git autocrlf in ~/.gitconfig
+# [core]
+#    autocrlf = true
+
+find . -name "*.zsh" | xargs dos2unix
+```
