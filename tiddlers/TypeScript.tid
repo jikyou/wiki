@@ -1,5 +1,5 @@
 created: 20200427105736506
-modified: 20210321115117633
+modified: 20220115083354645
 tags: JavaScript
 title: TypeScript
 type: text/vnd.tiddlywiki
@@ -31,3 +31,5 @@ type: text/vnd.tiddlywiki
 [[dzharii/awesome-typescript|https://github.com/dzharii/awesome-typescript]]
 
 [[semlinker/awesome-typescript|https://github.com/semlinker/awesome-typescript]]
+
+[[Type Challenges|https://github.com/type-challenges/type-challenges]]
