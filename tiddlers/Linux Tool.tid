@@ -1,11 +1,12 @@
 created: 20200401065000676
-modified: 20200412005217220
+modified: 20210828115444787
 tags: linux tool
 title: Linux Tool
+type: text/vnd.tiddlywiki
 
 ! Network 
 
-dig / ping / traceroute / nslookup / tcpdump / nc / host / whois / mtr / telnet
+dig / ping / traceroute / nslookup / tcpdump / nc(netcat) / host / whois / mtr / telnet
 
 router / ip / ifconfig / iptables
 
