@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 [[Roadmap|https://github.com/Microsoft/TypeScript/wiki/Roadmap]]
 
-[[Docs|https://www.typescriptlang.org/docs/home.html]] [[中文版|https://app.gitbook.com/@zhongsp/s/typescript-handbook/]]
+[[Docs|https://www.typescriptlang.org/docs/home.html]] [[Chinese|https://app.gitbook.com/@zhongsp/s/typescript-handbook/]]
 
 [[Playground|https://www.typescriptlang.org/play/index.html]]
 
@@ -18,7 +18,7 @@ type: text/vnd.tiddlywiki
 
 [[typescript-tutorial|https://github.com/xcatliu/typescript-tutorial]]
 
-[[Typescript Book|https://github.com/basarat/typescript-book]] [[中文版|https://jkchao.github.io/typescript-book-chinese/]]
+[[Typescript Book|https://github.com/basarat/typescript-book]] [[Chinese|https://jkchao.github.io/typescript-book-chinese/]]
 
 ! Package
 

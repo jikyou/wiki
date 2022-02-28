@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 [[Wiki|https://en.bitcoin.it/wiki/Main_Page]]
 [[Bitcoinwiki|https://en.bitcoinwiki.org/wiki/Main_Page]]
 
-[[White Paper|https://bitcoin.org/bitcoin.pdf]] [[中文版|https://github.com/GammaGao/bitcoinwhitepaper/blob/master/bitcoin_cn.pdf]]
+[[White Paper|https://bitcoin.org/bitcoin.pdf]] [[Chinese|https://github.com/GammaGao/bitcoinwhitepaper/blob/master/bitcoin_cn.pdf]]
 
 [[Bitcoin Improvement Proposals - bips|https://github.com/bitcoin/bips]]
 
@@ -52,9 +52,9 @@ type: text/vnd.tiddlywiki
 
 ! Book
 
-[[bitcoinbook|https://github.com/bitcoinbook/bitcoinbook]] [[中文版|https://github.com/tianmingyun/MasterBitcoin2CN]]
+[[bitcoinbook|https://github.com/bitcoinbook/bitcoinbook]] [[Chinese|https://github.com/tianmingyun/MasterBitcoin2CN]]
 
-[[The Little Bitcoin Book|https://littlebitcoinbook.com/]] [[中文版|https://xiongxiaoer.gitbook.io/the-little-bitcoin-book/]]
+[[The Little Bitcoin Book|https://littlebitcoinbook.com/]] [[Chinese|https://xiongxiaoer.gitbook.io/the-little-bitcoin-book/]]
 
 ! Community
 

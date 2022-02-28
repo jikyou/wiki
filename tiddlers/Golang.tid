@@ -31,10 +31,10 @@ type: text/vnd.tiddlywiki
 !! Style Guide
 
 [[uber-go|https://github.com/uber-go/guide/blob/master/style.md]]
-[[中文版|https://github.com/xxjwxc/uber_go_guide_cn]]
+[[Chinese|https://github.com/xxjwxc/uber_go_guide_cn]]
 
 [[go-styleguide|https://github.com/bahlo/go-styleguide]]
-[[中文版|https://github.com/cch123/go-styleguide]]
+[[Chinese|https://github.com/cch123/go-styleguide]]
 
 !! Book
 
@@ -44,7 +44,7 @@ type: text/vnd.tiddlywiki
 
 [[build-web-application-with-golang|https://github.com/astaxie/build-web-application-with-golang]]
 
-[[go-internals|https://github.com/teh-cmc/go-internals]] [[中文版|https://github.com/go-internals-cn/go-internals]]
+[[go-internals|https://github.com/teh-cmc/go-internals]] [[Chinese|https://github.com/go-internals-cn/go-internals]]
 
 [[Go 语言中文开源图书|https://books.studygolang.com/]]
 
