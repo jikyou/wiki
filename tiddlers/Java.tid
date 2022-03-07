@@ -1,31 +1,31 @@
 created: 20200324132217636
-modified: 20210321114804854
+modified: 20220307140402411
 tags: [[Programming language]]
 title: Java
 type: text/vnd.tiddlywiki
 
-[[Java Documentation|https://docs.oracle.com/en/java/]]
 
-[[JEP JDK Enhancement Proposals|https://openjdk.java.net/jeps/0]]
+[[Oracle Java HomePage|https://docs.oracle.com/en/java/]]
 
-[[Java Language and Virtual Machine Specifications|https://docs.oracle.com/javase/specs/index.html]]
+[[Oracle Tutorial|https://docs.oracle.com/javase/tutorial/index.html]]
 
-! JDK Source Code
+[[All Java SE Specifications|https://docs.oracle.com/javase/specs/index.html]]
+
+[[JDK Release Notes|https://www.oracle.com/java/technologies/javase/jdk-relnotes-index.html]]
+
+[[Java Community Process|https://jcp.org/en/home/index]]
+
+! [[Version 17 Specifications|https://docs.oracle.com/en/java/javase/17/docs/specs/index.html]]
+
+[[Version 17 API Specification|https://docs.oracle.com/en/java/javase/17/docs/api/index.html]]
+
+[[Version 17 Tool Specifications|https://docs.oracle.com/en/java/javase/17/docs/specs/man/index.html]]
+
+! [[OpenJDK|https://openjdk.java.net/]]
+
+[[Source Code|http://hg.openjdk.java.net/]]
 
 ```
 hg clone http://hg.openjdk.java.net/jdk6/jdk6
 sh get_source.sh
-
-hg clone http://hg.openjdk.java.net/jdk7u/jdk7u
-sh get_source.sh
-
-hg clone http://hg.openjdk.java.net/jdk8u/jdk8u
-sh get_source.sh
-
-hg clone http://hg.openjdk.java.net/jdk-updates/jdk9u
-sh get_source.sh
-
-hg clone http://hg.openjdk.java.net/jdk-updates/jdk10u
-hg clone http://hg.openjdk.java.net/jdk-updates/jdk11u
-hg clone http://hg.openjdk.java.net/jdk-updates/jdk12u
 ```
