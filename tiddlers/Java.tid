@@ -1,5 +1,5 @@
 created: 20200324132217636
-modified: 20220307140402411
+modified: 20220308130229368
 tags: [[Programming language]]
 title: Java
 type: text/vnd.tiddlywiki
@@ -29,3 +29,7 @@ type: text/vnd.tiddlywiki
 hg clone http://hg.openjdk.java.net/jdk6/jdk6
 sh get_source.sh
 ```
+
+! Version Compare
+
+[[Which Version of JDK Should I Use?|https://whichjdk.com/]]
