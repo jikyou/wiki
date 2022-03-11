@@ -1,0 +1,15 @@
+created: 20220311152501734
+modified: 20220311153536746
+tags: [[Computer language]]
+title: IDL
+type: text/vnd.tiddlywiki
+
+! [[Protocol Buffers|https://developers.google.com/protocol-buffers]]
+
+[[protoc-gen-doc|https://github.com/pseudomuto/protoc-gen-doc]]
+
+[[buf|https://github.com/bufbuild/buf]] Linter and check compatibility api.
+
+[[protodep|https://github.com/stormcat24/protodep]] limit use pb version.
+
+[[blog about manage pb file use git and package|https://www.bugsnag.com/blog/libraries-for-grpc-services]]
