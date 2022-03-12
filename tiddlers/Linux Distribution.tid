@@ -1,19 +1,8 @@
-created: 20200703155613722
-modified: 20210306102204502
-tags: linux
+created: 20220312031137552
+modified: 20220312031155060
+tags: Linux
 title: Linux Distribution
+type: text/vnd.tiddlywiki
 
 
-[[NixOS|https://nixos.org/]]
-
-[[Tails|https://tails.boum.org/index.en.html]]
-
-[[Centos|https://www.centos.org/]]
-
-[[Pop!_OS|https://pop.system76.com/]]
-
-[[Zorin OS|https://zorinos.com/]]
-
-[[Arch Linux]]
-
-[[Manjaro|https://manjaro.org/]]
+<<list-links "[tag[Linux Distribution]]">>

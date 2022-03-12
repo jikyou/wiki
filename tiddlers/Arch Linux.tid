@@ -1,10 +1,19 @@
 created: 20210306102213653
-modified: 20210306102551226
-tags: linux
+modified: 20220312031034242
+tags: [[Linux Distribution]]
 title: Arch Linux
+type: text/vnd.tiddlywiki
 
-[[Website|https://www.archlinux.org/]]
+
+https://www.archlinux.org/
 
 [[Aur|https://aur.archlinux.org/]]
 
-[[Arch Linux Arm|https://archlinuxarm.org/]]
+[[Arm Version|https://archlinuxarm.org/]]
+
+! Package Manager
+
+[[pacman|https://wiki.archlinux.org/title/pacman]]
+
+[[yay|https://github.com/Jguer/yay]] include AUR package
+
