@@ -1,7 +1,8 @@
 created: 20200330011304777
-modified: 20200330011445780
-tags: 
+modified: 20220312033024083
+tags: UnCategory
 title: Kubernetes Problem
+type: text/vnd.tiddlywiki
 
 ! PV can't delete
 

@@ -1,7 +1,8 @@
 created: 20200628134936383
-modified: 20210110132526635
-tags: git
+modified: 20220312033240515
+tags: git UnCategory
 title: Git Self Hosted
+type: text/vnd.tiddlywiki
 
 
 [[phabricator|https://github.com/phacility/phabricator]]

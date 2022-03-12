@@ -1,7 +1,8 @@
 created: 20200705134417861
-modified: 20200708133522661
-tags: security
+modified: 20220312033454963
+tags: security UnCategory
 title: Web Security
+type: text/vnd.tiddlywiki
 
 ! XSS Cross-Site Scripting
 

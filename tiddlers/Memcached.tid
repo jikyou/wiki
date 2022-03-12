@@ -1,6 +1,7 @@
 created: 20200419122827016
-modified: 20200419122921418
-tags: memcached database
+modified: 20220312033111422
+tags: memcached database UnCategory
 title: Memcached
+type: text/vnd.tiddlywiki
 
 ! [[Docs|https://github.com/memcached/memcached/wiki]]

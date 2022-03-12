@@ -1,7 +1,8 @@
 created: 20200627094823274
-modified: 20200707151646281
-tags: front-end
+modified: 20220312033237449
+tags: front-end UnCategory
 title: Angular
+type: text/vnd.tiddlywiki
 
 ```
 ng new my-app
