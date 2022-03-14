@@ -1,0 +1,22 @@
+created: 20220314145703602
+modified: 20220314150631739
+tags: [[Software Design]]
+title: Domain-driven design
+type: text/vnd.tiddlywiki
+
+
+! Docs
+
+https://insights.thoughtworks.cn/tag/domain-driven-design/
+
+https://www.yuque.com/liberty/rf322x/ny150b
+
+! Code Example
+
+https://github.com/stemmlerjs/white-label
+https://github.com/citerus/dddsample-core
+https://github.com/ouchuangxin/leave-sample
+
+! References
+
+[[awesome-ddd|https://github.com/heynickc/awesome-ddd]]
