@@ -1,5 +1,5 @@
 created: 20200418052723659
-modified: 20210321115238568
+modified: 20220315005238337
 tags: JavaScript
 title: Node.js
 type: text/vnd.tiddlywiki
@@ -22,13 +22,11 @@ type: text/vnd.tiddlywiki
 
 [[The Art of Node|https://github.com/maxogden/art-of-node]]
 
-[[Stream Handbook|https://github.com/substack/stream-handbook]]
+[[stream-handbook|https://github.com/substack/stream-handbook]]
 
-[[node-interview|https://github.com/ElemeFE/node-interview]]
+[[deep-into-node|https://github.com/yjhjstz/deep-into-node]]
 
-[[nodejs.red|https://www.nodejs.red/#/README]]
-
-[[interview.nodejs.red|https://interview.nodejs.red/#/]]
+[[ElemeFE/node-interview|https://github.com/ElemeFE/node-interview]]
 
 ! Awesome
 
