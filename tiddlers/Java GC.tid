@@ -1,0 +1,21 @@
+created: 20220324140050843
+modified: 20220324141743376
+tags: Java [[Garbage Collection]]
+title: Java GC
+type: text/vnd.tiddlywiki
+
+
+https://docs.oracle.com/en/java/javase/17/gctuning/index.html
+
+[[G1 Garbage-first collector|https://en.wikipedia.org/wiki/Garbage-first_collector]]
+
+[[Shenandoah GC|https://wiki.openjdk.java.net/display/shenandoah/Main]]
+
+[[Azul C4|https://www.azul.com/products/components/pgc/]]
+
+[[Z GC|https://wiki.openjdk.java.net/display/zgc]]
+
+!! Concept
+
+(Minor GC / Major GC / Full GC)
+

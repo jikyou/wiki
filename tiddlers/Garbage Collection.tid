@@ -1,0 +1,19 @@
+created: 20220324140121980
+modified: 20220324140536762
+tags: [[Memory management]]
+title: Garbage Collection
+type: text/vnd.tiddlywiki
+
+! [[GC|https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)]]
+
+[[Reference counting|https://en.wikipedia.org/wiki/Reference_counting]]
+
+[[Tracing garbage collection|https://en.wikipedia.org/wiki/Tracing_garbage_collection]]
+
+!! Algorithm
+
+[[Mark-sweep|https://en.wikipedia.org/wiki/Tracing_garbage_collection#Na%C3%AFve_mark-and-sweep]]
+
+[[Mark-compact|https://en.wikipedia.org/wiki/Mark-compact_algorithm]]
+
+!! [[Java GC]]
