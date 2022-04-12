@@ -10,7 +10,9 @@ type: text/vnd.tiddlywiki
 
 ! Spec
 
-[[Opentracing|https://opentracing.io/]]
+[[OpenTelemetry|https://opentelemetry.io/]]
+
+> metrics, logs, and traces
 
 ! Community practice
 
