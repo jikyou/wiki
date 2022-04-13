@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 ! Spec
 
-[[OpenTelemetry|https://opentelemetry.io/]]
+[[OpenTelemetry|https://opentelemetry.io/]] （Contains OpenCensus and OpenTracing）
 
 > metrics, logs, and traces
 
