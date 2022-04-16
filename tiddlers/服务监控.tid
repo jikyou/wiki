@@ -1,23 +1,33 @@
 created: 20200430110805849
-modified: 20210321114145330
+modified: 20220416040007484
 tags: Microservices
 title: 服务监控
 type: text/vnd.tiddlywiki
 
 ! [[ELK|https://www.elastic.co]]
 
-Elasticsearch、Logstash、Kibana、Beats
+Elasticsearch, Logstash, Kibana, Beats
+
+! EFK
+
+Elasticsearch, [[fluentd|https://github.com/fluent/fluentd]], Kibana
+
+! LGTM
+
+Loki, Grafana, Tempo, Mimir
+
+https://github.com/grafana
 
 ! [[Graphite|https://github.com/graphite-project]]
 
-Carbon、Whisper、Graphite-Web
+Carbon, Whisper, Graphite-Web
 
 Graphite 自身并不包含数据采集组件，可以接入 [[Statsd|https://github.com/statsd/statsd]]
 
 ! TICK
 
-Telegraf、InfluxDB、Chronograf、Kapacitor
+Telegraf, InfluxDB, Chronograf, Kapacitor
 
 ! [[Prometheus|https://github.com/prometheus]]
 
-Prometheus Server、Jobs/exporters、Pushgateway、Alertmanager、Prometheus web UI
+Prometheus Server, Jobs/exporters, Pushgateway, Alertmanager, Prometheus web UI
