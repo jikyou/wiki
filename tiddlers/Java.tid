@@ -1,5 +1,5 @@
 created: 20200324132217636
-modified: 20220318152218109
+modified: 20220417072410983
 tags: [[Programming language]]
 title: Java
 type: text/vnd.tiddlywiki
@@ -30,10 +30,6 @@ hg clone http://hg.openjdk.java.net/jdk6/jdk6
 sh get_source.sh
 ```
 
-! Study Resource
-
-[[Oracle Tutorial|https://docs.oracle.com/javase/tutorial/index.html]]
-
 ! Version Compare
 
 [[Which Version of JDK Should I Use?|https://whichjdk.com/]]
@@ -41,3 +37,15 @@ sh get_source.sh
 ! Version Manager
 
 [[sdkman|https://sdkman.io/]]
+
+! Tool
+
+!! Tracing
+
+[[BTrace|https://github.com/btraceio/btrace]]
+
+[[Arthas|https://github.com/alibaba/arthas]]
+
+! Study Resource
+
+[[Oracle Tutorial|https://docs.oracle.com/javase/tutorial/index.html]]
