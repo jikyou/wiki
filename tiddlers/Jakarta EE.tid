@@ -1,0 +1,22 @@
+created: 20220420010329170
+modified: 20220420010550451
+tags: Java
+title: Jakarta EE
+type: text/vnd.tiddlywiki
+
+
+https://en.wikipedia.org/wiki/Jakarta_EE
+
+https://jakarta.ee/
+
+[[Java EE|https://www.oracle.com/java/technologies/java-ee-glance.html]]
+
+! Spec
+
+[[Jakarta Bean Validation|https://beanvalidation.org/]]
+
+! References
+
+https://projects.eclipse.org/projects/ee4j
+
+https://eclipse-ee4j.github.io/jakartaee-platform/
