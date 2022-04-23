@@ -1,8 +1,11 @@
 created: 20220311152501734
-modified: 20220311153536746
-tags: [[Computer language]]
+modified: 20220423025912553
+tags: [[Programming language]]
 title: IDL
 type: text/vnd.tiddlywiki
+
+
+[[Interface description language|https://en.wikipedia.org/wiki/Interface_description_language]]
 
 ! [[Protocol Buffers|https://developers.google.com/protocol-buffers]]
 
