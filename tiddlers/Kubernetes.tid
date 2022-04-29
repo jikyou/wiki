@@ -1,5 +1,5 @@
 created: 20200330010907513
-modified: 20210328080947441
+modified: 20220423105049047
 tags: [[Cloud Native]]
 title: Kubernetes
 type: text/vnd.tiddlywiki
@@ -32,7 +32,7 @@ type: text/vnd.tiddlywiki
 
 !! SMI / Service Mesh Interface
 
-[[Spec|https://github.com/servicemeshinterface/smi-spec]]
+https://smi-spec.io/
 
 ! Book
 
