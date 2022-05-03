@@ -1,5 +1,5 @@
 created: 20220418133928053
-modified: 20220418134256135
+modified: 20220503141032179
 tags: Java
 title: Spring
 type: text/vnd.tiddlywiki
@@ -7,9 +7,13 @@ type: text/vnd.tiddlywiki
 
 [[Spring|https://spring.io/]]
 
+https://start.spring.io/
+
+! Spring Boot
+
 [[Spring Boot|https://docs.spring.io/spring-boot/docs/current/reference/html/using.html]]
 
-https://start.spring.io/
+[[Application Properties|https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html]]
 
 ! Blog
 
