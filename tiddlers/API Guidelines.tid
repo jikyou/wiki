@@ -7,3 +7,7 @@ type: text/vnd.tiddlywiki
 !! REST
 
 [[Microsoft/api-guidelines|https://github.com/Microsoft/api-guidelines]]
+
+!! Design
+
+[[Google's API design decisions|https://google.aip.dev/]]
