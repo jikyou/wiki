@@ -1,0 +1,19 @@
+created: 20220705125701481
+modified: 20220706122925338
+tags: Shell
+title: Userful Command
+type: text/vnd.tiddlywiki
+
+
+! Replace all file extension from .md to .zh.md
+
+```
+for f in `find content/posts/ -iname '*.md' -type f -print`; do mv "$f" ${f%.md}.zh.md; done
+```
+
+! Delete big file in git
+
+```
+bfg --strip-blobs-bigger-than 1M .git
+git reflog expire --expire=now --all && git gc --prune=now --aggressive
+```
