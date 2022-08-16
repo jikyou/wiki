@@ -60,14 +60,4 @@ type: text/vnd.tiddlywiki
 
 [[gotraining|https://github.com/ardanlabs/gotraining]]
 
-!! Conference
-
-[[Gopher China|https://github.com/gopherchina/conference]]
-
-!! History
-
-!!! Package Management
-
-[[Go 包管理的前世今生|https://www.infoq.cn/article/history-go-package-management]]
-
-[[Go语言包管理简史|https://tonybai.com/2019/09/21/brief-history-of-go-package-management/]]
+[[golangbyexample|https://golangbyexample.com//]]
