@@ -1,9 +1,17 @@
 created: 20200331101247135
-modified: 20220423035220676
+modified: 20220825090801398
 tags: TableOfContents
 title: Computer Science
 type: text/vnd.tiddlywiki
 
+
+! List
+
+[[teachyourselfcs|https://teachyourselfcs.com/]]
+
+[[ossu/computer-science|https://github.com/ossu/computer-science]]
+
+! Wiki
 
 https://en.wikipedia.org/wiki/Computer_science
 
@@ -13,10 +21,8 @@ https://en.wikipedia.org/wiki/History_of_compiler_construction
 
 https://en.wikipedia.org/wiki/History_of_software_engineering
 
-! Data Structures
+! Algorithms and Data Structures
 
 [[List of data structures - Wiki|https://en.wikipedia.org/wiki/List_of_data_structures]]
-
-! Algorithms
 
 [[List of algorithms - Wiki|https://en.wikipedia.org/wiki/List_of_algorithms]]
