@@ -1,5 +1,5 @@
 created: 20200521062442385
-modified: 20210321113411764
+modified: 20221222122750973
 tags: Blockchain
 title: Bitcoin
 type: text/vnd.tiddlywiki
@@ -49,6 +49,8 @@ type: text/vnd.tiddlywiki
 [[awesome-bitcoin-payment-processors|https://github.com/alexk111/awesome-bitcoin-payment-processors]]
 
 [[awesome-bitcoin|https://github.com/igorbarinov/awesome-bitcoin]]
+
+https://www.btcstudy.org/
 
 ! Book
 

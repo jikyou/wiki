@@ -1,5 +1,5 @@
 created: 20200417043824877
-modified: 20210321113327590
+modified: 20221222122859787
 tags: TableOfContents
 title: Blockchain
 type: text/vnd.tiddlywiki
@@ -30,8 +30,6 @@ type: text/vnd.tiddlywiki
 
 [[blockchain_guide|https://github.com/yeasy/blockchain_guide]] [[Online|https://yeasy.gitbook.io/blockchain_guide/]]
 
-! [[Concept]]
-
 ! Awesome
 
 [[wiki.learnblockchain|https://wiki.learnblockchain.cn/]]
@@ -48,9 +46,13 @@ type: text/vnd.tiddlywiki
 
 ! Market
 
-[[CoinMarketCap|https://coinmarketcap.com/]]
+https://coinmarketcap.com/
 
-[[feixiaohao|https://www.feixiaohao.com/]]
+https://www.coingecko.com/
+
+! Pool
+
+https://www.f2pool.com/
 
 ! Wallet
 
