@@ -1,20 +1,9 @@
 created: 20200417043824877
-modified: 20221222122859787
+modified: 20221225041600291
 tags: TableOfContents
 title: Blockchain
 type: text/vnd.tiddlywiki
 
-! Technical point
-
-!! Lightning Network
-
-!!! White Paper
-
-[[The Bitcoin Lightning Network:Scalable Off-Chain Instant Payments|http://lightning.network/lightning-network-paper.pdf]]
-
-[[Flare: An Approach to Routingin Lightning Network|https://bitfury.com/content/downloads/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf]]
-
-!!! [[RFC|https://github.com/lightningnetwork/lightning-rfc]]
 
 !  Build
 
@@ -44,6 +33,10 @@ type: text/vnd.tiddlywiki
 
 [[slowmist/Knowledge-Base|https://github.com/slowmist/Knowledge-Base]]
 
+! Podcast
+
+[[Fork It|https://forkit.fm/]]
+
 ! Market
 
 https://coinmarketcap.com/
@@ -53,7 +46,3 @@ https://www.coingecko.com/
 ! Pool
 
 https://www.f2pool.com/
-
-! Wallet
-
-[[blockchain.com|https://www.blockchain.com/]]
