@@ -1,5 +1,5 @@
 created: 20210321114530520
-modified: 20220423030237964
+modified: 20221226123440304
 tags: TableOfContents
 title: Programming language
 type: text/vnd.tiddlywiki
@@ -10,3 +10,7 @@ type: text/vnd.tiddlywiki
 [[Category:Programming_language_classification|https://en.wikipedia.org/wiki/Category:Programming_language_classification]]
 
 <<list-links "[tag[Programming language]]">>
+
+! Learn
+
+[[learnxinyminutes|https://learnxinyminutes.com/]]

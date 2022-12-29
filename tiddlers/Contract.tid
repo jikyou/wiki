@@ -1,12 +1,18 @@
 created: 20221222122338132
-modified: 20221222122937697
+modified: 20221228095209977
 tags: Blockchain
 title: Contract
 type: text/vnd.tiddlywiki
 
 
+! Tutorial
+
 https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek
 
 ! Solidity
 
-https://docs.soliditylang.org/en/v0.8.17/index.html#
+https://docs.soliditylang.org/en/latest/
+
+! Security
+
+[[Ethereum Smart Contract Security Best Practices|https://github.com/ConsenSys/smart-contract-best-practices]]

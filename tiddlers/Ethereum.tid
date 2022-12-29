@@ -1,5 +1,5 @@
 created: 20200521065245971
-modified: 20221225041419879
+modified: 20221229001543871
 tags: [[Public Chain]]
 title: Ethereum
 type: text/vnd.tiddlywiki
@@ -9,16 +9,22 @@ type: text/vnd.tiddlywiki
 
 [[White Paper|https://ethereum.org/whitepaper/]] [[Chinese|https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6]]
 
+[[etherscan|https://etherscan.io/]]
+
 [[Releases|https://eth.wiki/roadmap/releases]]
+
 [[Roadmap|https://eth.wiki/roadmap/roadmap]]
 
 [[Ethereum Improvement Proposal - EIPs|https://eips.ethereum.org/]]
+
+! Dapp
 
 [[ENS - Ethereum Name Service|https://github.com/ensdomains/ens]]
 
 ! Client
 
 [[geth|https://geth.ethereum.org/]]
+
 [[Parity|https://github.com/openethereum/openethereum]]
 
 ! Smart Contract
@@ -26,8 +32,8 @@ type: text/vnd.tiddlywiki
 !! Language
 
 [[Solidity|https://github.com/ethereum/solidity]]
+
 [[Vyper|https://github.com/vyperlang/vyper]]
-Serpent
 
 !! Editor
 
