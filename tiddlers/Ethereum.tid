@@ -1,5 +1,5 @@
 created: 20200521065245971
-modified: 20221229001543871
+modified: 20221231002625379
 tags: [[Public Chain]]
 title: Ethereum
 type: text/vnd.tiddlywiki
@@ -17,47 +17,11 @@ type: text/vnd.tiddlywiki
 
 [[Ethereum Improvement Proposal - EIPs|https://eips.ethereum.org/]]
 
-! Dapp
-
-[[ENS - Ethereum Name Service|https://github.com/ensdomains/ens]]
-
 ! Client
 
 [[geth|https://geth.ethereum.org/]]
 
 [[Parity|https://github.com/openethereum/openethereum]]
-
-! Smart Contract
-
-!! Language
-
-[[Solidity|https://github.com/ethereum/solidity]]
-
-[[Vyper|https://github.com/vyperlang/vyper]]
-
-!! Editor
-
-[[Remix|https://remix.ethereum.org/]]
-
-! Devlop
-
-[[Truffle - A tool for developing smart contracts.|https://github.com/trufflesuite/truffle]]
-
-[[ganache - Private Ethereum blockchain|https://github.com/trufflesuite/ganache]]
-
-! DApps
-
-[[web3.js|https://github.com/ethereum/web3.js]]
-
-[[Swarm - distributed storage platform|https://github.com/ethersphere/swarm]]
-
-[[Whisper -  a pure identity-based messaging system.|https://eth.wiki/concepts/whisper/whisper]]
-
-! Awesome
-
-[[ethereum-developer-tools-list|https://github.com/ConsenSys/ethereum-developer-tools-list]]
-
-[[EthHub Docs|https://docs.ethhub.io/]]
 
 ! Book
 

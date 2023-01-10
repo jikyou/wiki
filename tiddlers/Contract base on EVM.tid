@@ -1,0 +1,46 @@
+created: 20221222122338132
+modified: 20221231002634064
+tags: Blockchain
+title: Contract base on EVM
+type: text/vnd.tiddlywiki
+
+
+! Tutorial
+
+https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek
+
+! Language
+
+https://docs.soliditylang.org/en/latest/
+
+https://vyper.readthedocs.io/en/stable/
+
+! Editor
+
+[[Remix|https://remix.ethereum.org/]]
+
+! Develop
+
+https://hardhat.org/
+
+https://trufflesuite.com/truffle/
+
+! Library
+
+https://github.com/web3/web3.js
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/
+
+! Security
+
+https://github.com/ConsenSys/smart-contract-best-practices
+
+https://github.com/guylando/KnowledgeLists
+
+! Awesome
+
+[[ethereum-developer-tools-list|https://github.com/ConsenSys/ethereum-developer-tools-list]]
+
+! Example
+
+[[ENShttps://github.com/ensdomains]]
