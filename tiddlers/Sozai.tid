@@ -1,5 +1,5 @@
 created: 20220703151410271
-modified: 20220703151510973
+modified: 20230120144641562
 tags: Japanese
 title: Sozai
 type: text/vnd.tiddlywiki
@@ -8,6 +8,21 @@ type: text/vnd.tiddlywiki
 素材
 
 [[にほんごたど|https://tadoku.org/japanese/]]
+
+! 読み
+
+https://www.aozora.gr.jp/index.html
+
+http://www.sosekiproject.org/
+
+https://trans.hiragana.jp/
+
+> https://trans.hiragana.jp/ruby/https://www.aozora.gr.jp/
+> https://trans.hiragana.jp/ruby/https://yomou.syosetu.com/
+
+! 漢字
+
+https://kanjitisiki.com/zyouyou/
 
 ! English
 
@@ -29,8 +44,6 @@ https://study.u-biq.org/
 https://nihongokyoshi-net.com/
 
 https://www3.nhk.or.jp/news/easy/
-
-http://www.sosekiproject.org/
 
 https://www.jpmarumaru.com/tw/JPSongList.asp
 
