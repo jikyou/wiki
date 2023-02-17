@@ -1,5 +1,5 @@
 created: 20200321171035968
-modified: 20210321114628053
+modified: 20230217132901826
 tags: [[Programming language]]
 title: Golang
 type: text/vnd.tiddlywiki
@@ -61,3 +61,5 @@ type: text/vnd.tiddlywiki
 [[gotraining|https://github.com/ardanlabs/gotraining]]
 
 [[golangbyexample|https://golangbyexample.com//]]
+
+https://gobyexample.com/
