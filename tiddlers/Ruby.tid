@@ -1,7 +1,20 @@
 created: 20200830054919848
-modified: 20210321114911570
+modified: 20230226061100826
 tags: [[Programming language]]
 title: Ruby
 type: text/vnd.tiddlywiki
 
+
+https://www.ruby-lang.org/
+
+https://try.ruby-lang.org/
+
 [[Ruby Issue Tracking System|https://bugs.ruby-lang.org]]
+
+! Awesome
+
+[[Learning Ruby from a JavaScript background|https://github.com/gauthamchandra/learning-ruby-from-js]]
+
+! Style Guide
+
+https://github.com/rubocop/ruby-style-guide
