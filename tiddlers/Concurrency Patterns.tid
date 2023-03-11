@@ -1,9 +1,16 @@
 created: 20200405092035312
-modified: 20220312033058191
-tags: pattern UnCategory
+modified: 20230311141634215
+tags: [[Software design]]
 title: Concurrency Patterns
 type: text/vnd.tiddlywiki
 
 
-[[Practise|https://github.com/lanlyhs/ConcurrencyPatterns]]
+https://en.wikipedia.org/wiki/Concurrent_computing
 
+https://en.wikipedia.org/wiki/Concurrency_pattern
+
+https://github.com/hardboydu/awesome/blob/master/awesome-concurrency.md
+
+https://github.com/rigtorp/awesome-lockfree
+
+https://gitlab.com/Lipovsky/awesome-concurrency
