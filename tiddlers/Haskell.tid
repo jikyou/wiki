@@ -1,0 +1,35 @@
+created: 20230313101222346
+modified: 20230313103629392
+tags: [[Programming language]]
+title: Haskell
+type: text/vnd.tiddlywiki
+
+
+https://www.haskell.org/
+
+https://wiki.haskell.org/Haskell
+
+!! ghc
+
+https://downloads.haskell.org/ghc/latest/docs/
+
+https://www.haskell.org/ghc/
+
+! Package
+
+https://hackage.haskell.org/
+
+! Tool
+
+https://www.haskell.org/ghcup/
+
+https://cabal.readthedocs.io/en/stable/
+
+https://docs.haskellstack.org/en/stable/
+
+! Study
+
+https://www.tryhaskell.org/
+
+http://learnyouahaskell.com/
+
