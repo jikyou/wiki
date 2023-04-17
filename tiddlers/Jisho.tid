@@ -1,11 +1,23 @@
 created: 20220626140129345
-modified: 20220626140325522
+modified: 20230417145454288
 tags: Japanese
 title: Jisho
 type: text/vnd.tiddlywiki
 
 
-辞書
+! 辞書
+
+[[三省堂|https://dictionary.sanseido-publ.co.jp/]]
+
+> 大辞林 第四版 https://dictionary.sanseido-publ.co.jp/dict/ssd13906
+> 現代新国語辞典 第六版 https://dictionary.sanseido-publ.co.jp/dict/ssd14063
+> 新明解国語辞典 第八版 https://dictionary.sanseido-publ.co.jp/dict/ssd13078
+
+[[岩波書店-広辞苑|http://kojien.iwanami.co.jp/]]
+
+[[大辞泉|https://daijisen.jp/about/index.html]]
+
+! Site
 
 [[コトバンク|https://kotobank.jp/]]
 
@@ -26,5 +38,7 @@ https://ejje.weblio.jp/
 https://kanji.jitenon.jp/
 
 [[語源由来辞典|https://gogen-yurai.jp/]]
+
+! Application
 
 [[辞書 by 物書堂|https://monokakido.jp/ja/dictionaries/app/]]
