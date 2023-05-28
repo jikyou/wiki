@@ -1,5 +1,5 @@
 created: 20220312034802240
-modified: 20220312035310863
+modified: 20230528024115426
 tags: TableOfContents
 title: Operating System
 type: text/vnd.tiddlywiki
@@ -12,3 +12,11 @@ https://www.gnu.org/
 !! GNU/Linux
 
 [[Free GNU/Linux distributions|https://www.gnu.org/distros/free-distros.html]]
+
+! Bootable Tool
+
+https://github.com/ventoy/Ventoy
+
+https://github.com/pbatard/rufus
+
+https://github.com/balena-io/etcher
