@@ -1,0 +1,33 @@
+created: 20200322060747628
+modified: 20230804075926785
+tags: [[Software engineering]]
+title: CSS Style
+type: text/vnd.tiddlywiki
+
+! Browser Default Style
+
+https://chromium.googlesource.com/chromium/blink/+/refs/heads/main/Source/core/css/html.css
+
+https://searchfox.org/mozilla-central/source/layout/style/res/html.css
+
+https://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css
+
+https://browserdefaultstyles.com/
+
+! Reset Browser Default Style
+
+https://meyerweb.com/eric/tools/css/reset/
+
+https://gist.github.com/DavidWells/18e73022e723037a50d6
+
+https://github.com/necolas/normalize.css
+
+https://github.com/troxler/awesome-css-frameworks#base--reset--normalize
+
+! See every single "box" that makes up a page
+
+```
+* {
+   border: 1px solid red !important;
+}
+```
