@@ -6,6 +6,7 @@
     ],
     "themes": [
         "tiddlywiki/vanilla",
+        "tiddlywiki/heavier",
         "tiddlywiki/snowwhite",
         "tiddlywiki/centralised"
     ],

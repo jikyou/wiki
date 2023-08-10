@@ -1,5 +1,5 @@
 created: 20200322060747628
-modified: 20230804075926785
+modified: 20230809083541636
 tags: [[Software engineering]]
 title: CSS Style
 type: text/vnd.tiddlywiki
@@ -31,3 +31,8 @@ https://github.com/troxler/awesome-css-frameworks#base--reset--normalize
    border: 1px solid red !important;
 }
 ```
+
+! link specificity (LVHA)
+
+https://meyerweb.com/eric/css/link-specificity.html
+
