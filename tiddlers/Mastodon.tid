@@ -1,11 +1,30 @@
 created: 20230803124112659
-modified: 20230810060453391
+modified: 20230811021901818
 tags: [[Web Tool]]
 title: Mastodon
 type: text/vnd.tiddlywiki
 
+! Protocols
 
-! Servers list
+https://en.wikipedia.org/wiki/Fediverse
+
+! Social Network
+
+https://joinmastodon.org/
+
+https://join.misskey.page/en-US/
+
+https://pleroma.social/
+
+https://friendi.ca/
+
+! Forum
+
+https://join-lemmy.org/
+
+! Mastodon
+
+!! Servers list
 
 https://joinmastodon.org/servers
 
@@ -19,6 +38,6 @@ https://fedidb.org/
 
 https://fediverse.observer/
 
-! Other
+! Misskey
 
 https://join.misskey.page/ja-JP/instances

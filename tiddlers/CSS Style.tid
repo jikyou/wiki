@@ -1,5 +1,5 @@
 created: 20200322060747628
-modified: 20230809083541636
+modified: 20230810134455944
 tags: [[Software engineering]]
 title: CSS Style
 type: text/vnd.tiddlywiki
@@ -36,3 +36,6 @@ https://github.com/troxler/awesome-css-frameworks#base--reset--normalize
 
 https://meyerweb.com/eric/css/link-specificity.html
 
+! Position fixed vs position sticky
+
+https://www.kevinpowell.co/article/positition-fixed-vs-sticky/
