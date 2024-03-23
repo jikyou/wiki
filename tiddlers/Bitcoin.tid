@@ -1,6 +1,6 @@
 created: 20200521062442385
-modified: 20221225041357224
-tags: [[Public Chain]]
+modified: 20240323141523737
+tags: Web3
 title: Bitcoin
 type: text/vnd.tiddlywiki
 
@@ -58,18 +58,16 @@ https://www.btcstudy.org/
 
 [[The Little Bitcoin Book|https://littlebitcoinbook.com/]] [[Chinese|https://xiongxiaoer.gitbook.io/the-little-bitcoin-book/]]
 
-! Lightning Network
-
-!! White Paper
-
-[[The Bitcoin Lightning Network:Scalable Off-Chain Instant Payments|http://lightning.network/lightning-network-paper.pdf]]
-
-[[Flare: An Approach to Routingin Lightning Network|https://bitfury.com/content/downloads/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf]]
-
-!! [[RFC|https://github.com/lightningnetwork/lightning-rfc]]
-
 ! Community
 
 [[Bitcoinedge|https://bitcoinedge.org/]]
 
 [[Scalingbitcoin|https://scalingbitcoin.org/]]
+
+! Blog
+
+https://bitcoincore.org/
+
+https://bitcoinmagazine.com/
+
+https://bitcoinops.org/

@@ -1,0 +1,14 @@
+created: 20240323141423831
+modified: 20240323141445342
+tags: Web3
+title: Lightning Network
+type: text/vnd.tiddlywiki
+
+
+!! White Paper
+
+[[The Bitcoin Lightning Network:Scalable Off-Chain Instant Payments|http://lightning.network/lightning-network-paper.pdf]]
+
+[[Flare: An Approach to Routingin Lightning Network|https://bitfury.com/content/downloads/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf]]
+
+!! [[RFC|https://github.com/lightningnetwork/lightning-rfc]]

@@ -1,5 +1,5 @@
 created: 20200830054919848
-modified: 20230316121956365
+modified: 20240323142242646
 tags: [[Programming language]]
 title: Ruby
 type: text/vnd.tiddlywiki
@@ -32,6 +32,10 @@ https://ruby-doc.org/
 https://apidock.com/
 
 https://rubyapi.org/
+
+! Book
+
+https://learnrubythehardway.org/book/
 
 ! Awesome
 
