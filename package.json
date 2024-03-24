@@ -1,0 +1,16 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tiddlywiki . --server",
+    "build": "tiddlywiki . --verbose --version --output public --build static index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tiddlywiki": "^5.3.3"
+  }
+}
