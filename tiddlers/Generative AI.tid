@@ -1,5 +1,5 @@
 created: 20240219131347552
-modified: 20240512014322060
+modified: 20240526140755418
 tags: TableOfContents
 title: Generative AI
 type: text/vnd.tiddlywiki
@@ -12,6 +12,10 @@ https://chat.openai.com/
 https://claude.ai
 
 https://gemini.google.com/
+
+!! extension
+
+https://www.elmo.chat/
 
 ! Image
 
@@ -36,3 +40,15 @@ https://www.perplexity.ai/
 ! Aggregation
 
 https://poe.com/
+
+! Tool
+
+https://github.com/open-webui/open-webui
+
+https://github.com/n4ze3m/page-assist
+
+!! Run local model
+
+https://ollama.com/
+
+
