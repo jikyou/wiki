@@ -1,5 +1,5 @@
 created: 20220423030647176
-modified: 20240402023746483
+modified: 20240623121532965
 tags: TableOfContents
 title: Software engineering
 type: text/vnd.tiddlywiki
@@ -16,3 +16,12 @@ https://12factor.net/
 ! Book
 
 https://icyfenix.cn/
+
+https://refactoring.com/
+
+!! DDIA
+
+https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+
+> https://github.com/Vonng/ddia
+> https://github.com/DistSysCorp/ddia
