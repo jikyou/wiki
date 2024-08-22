@@ -1,9 +1,11 @@
-created: 20221222122338132
-modified: 20240323141631450
-tags: Ethereum
-title: Contract on EVM
+created: 20240822025314963
+modified: 20240822033755859
+tags: Contract
+title: EVM
 type: text/vnd.tiddlywiki
 
+
+[[ChainList|https://chainlist.org/]]
 
 ! Tutorial
 
@@ -43,4 +45,6 @@ https://github.com/guylando/KnowledgeLists
 
 ! Example
 
-[[ENShttps://github.com/ensdomains]]
+[[ENS|https://github.com/ensdomains]]
+
+Uniswap
