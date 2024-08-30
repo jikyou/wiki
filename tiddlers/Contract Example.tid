@@ -1,0 +1,37 @@
+created: 20240824044840158
+modified: 20240830072421143
+tags: [[Contract On EVM]]
+title: Contract Example
+type: text/vnd.tiddlywiki
+
+! Uniswap
+
+v1 https://github.com/Uniswap/v1-contracts
+
+v2 https://github.com/Uniswap/v2-core
+
+v3 https://github.com/Uniswap/v3-core
+
+v4 https://github.com/Uniswap/v4-core
+
+! ENS
+
+https://github.com/ensdomains/ens-contracts
+
+! Aave
+
+https://github.com/aave/aave-v3-core
+
+! Other
+
+https://github.com/AmazingAng/WTF-Solidity
+
+https://github.com/safe-global/safe-smart-account
+
+https://github.com/makerdao/dss
+
+https://github.com/compound-finance/compound-protocol
+
+https://github.com/mds1/multicall
+
+https://github.com/provable-things/ethereum-api

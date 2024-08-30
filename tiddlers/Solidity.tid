@@ -1,11 +1,13 @@
 created: 20240822025314963
-modified: 20240822033755859
-tags: Contract
-title: EVM
+modified: 20240824125017209
+tags: [[Contract On EVM]]
+title: Solidity
 type: text/vnd.tiddlywiki
 
 
 [[ChainList|https://chainlist.org/]]
+
+https://docs.soliditylang.org/
 
 ! Tutorial
 
@@ -25,13 +27,17 @@ https://vyper.readthedocs.io/en/stable/
 
 https://hardhat.org/
 
-https://trufflesuite.com/truffle/
+https://github.com/foundry-rs/foundry
 
 ! Library
 
-https://github.com/web3/web3.js
-
 https://github.com/OpenZeppelin/openzeppelin-contracts/
+
+https://github.com/transmissions11/solmate
+
+https://github.com/ethers-io/ethers.js
+
+https://github.com/web3/web3.js
 
 ! Security
 
@@ -39,12 +45,18 @@ https://github.com/ConsenSys/smart-contract-best-practices
 
 https://github.com/guylando/KnowledgeLists
 
+https://github.com/SunWeb3Sec/DeFiHackLabs
+
+!! Tool
+
+https://solidityscan.com/
+
+! Learning
+
+https://www.wtf.academy/
+
+https://solidity-by-example.org/
+
 ! Awesome
 
 [[ethereum-developer-tools-list|https://github.com/ConsenSys/ethereum-developer-tools-list]]
-
-! Example
-
-[[ENS|https://github.com/ensdomains]]
-
-Uniswap
