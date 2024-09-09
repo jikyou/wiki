@@ -1,14 +1,28 @@
 created: 20240323141423831
-modified: 20240323141445342
-tags: Web3
+modified: 20240906121300420
+tags: Bitcoin
 title: Lightning Network
 type: text/vnd.tiddlywiki
 
 
-!! White Paper
+http://lightning.network/
 
-[[The Bitcoin Lightning Network:Scalable Off-Chain Instant Payments|http://lightning.network/lightning-network-paper.pdf]]
+https://github.com/lightning/bolts
 
-[[Flare: An Approach to Routingin Lightning Network|https://bitfury.com/content/downloads/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf]]
+https://github.com/lightning/blips
 
-!! [[RFC|https://github.com/lightningnetwork/lightning-rfc]]
+! Client
+
+https://github.com/lightningnetwork/lnd
+
+https://github.com/ElementsProject/lightning
+
+https://github.com/ACINQ/eclair
+
+! Book
+
+https://github.com/lnbook/lnbook
+
+! Resource
+
+https://github.com/bcongdon/awesome-lightning-network

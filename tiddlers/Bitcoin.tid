@@ -1,5 +1,5 @@
 created: 20200521062442385
-modified: 20240323141523737
+modified: 20240906110529788
 tags: Web3
 title: Bitcoin
 type: text/vnd.tiddlywiki
@@ -17,8 +17,6 @@ type: text/vnd.tiddlywiki
 ! Client
 
 [[Wiki Refer|https://en.bitcoin.it/wiki/Clients]]
-
-[[Mastering Bitcoin 2nd Edition Refer|https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc#alternative-clients-libraries-and-toolkits]]
 
 ! Detail
 
@@ -54,7 +52,7 @@ https://www.btcstudy.org/
 
 ! Book
 
-[[bitcoinbook|https://github.com/bitcoinbook/bitcoinbook]] [[Chinese|https://github.com/tianmingyun/MasterBitcoin2CN]]
+[[bitcoinbook|https://github.com/bitcoinbook/bitcoinbook]]
 
 [[The Little Bitcoin Book|https://littlebitcoinbook.com/]] [[Chinese|https://xiongxiaoer.gitbook.io/the-little-bitcoin-book/]]
 
@@ -71,3 +69,9 @@ https://bitcoincore.org/
 https://bitcoinmagazine.com/
 
 https://bitcoinops.org/
+
+! Bitcoin Only
+
+https://bitcoin-only.com/
+
+https://bitcoinonly.io/

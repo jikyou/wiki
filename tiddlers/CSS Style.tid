@@ -1,5 +1,5 @@
 created: 20200322060747628
-modified: 20230810134455944
+modified: 20240909134105639
 tags: [[Software engineering]]
 title: CSS Style
 type: text/vnd.tiddlywiki
@@ -39,3 +39,7 @@ https://meyerweb.com/eric/css/link-specificity.html
 ! Position fixed vs position sticky
 
 https://www.kevinpowell.co/article/positition-fixed-vs-sticky/
+
+! old flex bug
+
+https://github.com/philipwalton/flexbugs

@@ -1,5 +1,5 @@
 created: 20200418052723659
-modified: 20230316132334013
+modified: 20240909135259405
 tags: JavaScript
 title: Node.js
 type: text/vnd.tiddlywiki
@@ -43,3 +43,7 @@ https://node.green/#ESNEXT
 ! Practice
 
 [[NODESCHOOL|https://nodeschool.io/]]
+
+! ESM
+
+to esm https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
